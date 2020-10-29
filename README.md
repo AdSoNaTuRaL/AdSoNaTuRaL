@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/26275918/97561816-02c91280-19e1-11eb-9cc9-0f9a13841248.png">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/26275918/97562197-88e55900-19e1-11eb-89a0-15d0d8cc0b16.png">
 
 ### Hello World, I'm Adson :octocat:
 ---
