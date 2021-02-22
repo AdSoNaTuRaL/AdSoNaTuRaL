@@ -15,7 +15,7 @@ Currently studying to become a full stack developer. I am also enthusiastic abou
 [badge-linked-in]: https://img.shields.io/badge/LinkedIn-adsonhenrique-blue?style=plastic&logo=Linkedin&logoColor=white
 
 <a href="https://github.com/AdSoNaTuRaL/AdSoNaTuRaL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adsonatural&hide=issues&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adsonatural&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/AdSoNaTuRaL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsonatural&layout=compact&hide=css" />
