@@ -1,10 +1,10 @@
-<img align="right" width="500" src="https://user-images.githubusercontent.com/26275918/97562197-88e55900-19e1-11eb-89a0-15d0d8cc0b16.png">
+<img align="right" width="500" src="https://user-images.githubusercontent.com/26275918/118713488-4753b880-b822-11eb-9cb7-e1c6dc14c796.png">
 
 ### Hello World, I'm Adson :octocat:
 ---
 [![Adson Henrique on LinkedIn][badge-linked-in]](https://www.linkedin.com/in/adsonhenrique/)
 
-Graduated in Computer Engineering at UniEVANGÉLICA with an emphasis on Software and student of a Master's degree in Computer Engineering at the University of Jaén - Spain. 
+Graduated in Computer Engineering at UniEVANGÉLICA with an emphasis on Software and Master in Computer Engineering at the University of Jaén - Spain. 
 
 Currently studying to become a full stack developer. I am also enthusiastic about UI/UX Design.
 
