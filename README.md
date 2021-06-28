@@ -10,12 +10,11 @@ My professional goal is help people with technology.
 
 
 
-<!--### My stats 
---- -->
+### My stats 
+---
 [badge-linked-in]: https://img.shields.io/badge/LinkedIn-adsonhenrique-blue?style=plastic&logo=Linkedin&logoColor=white
 
-<!--
 <a href="https://github.com/AdSoNaTuRaL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsonatural&layout=compact&hide=css, html&theme=dark&langs_count=6" />
 </a>
--->
+
