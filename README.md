@@ -4,10 +4,9 @@
 ---
 [![Adson Henrique on LinkedIn][badge-linked-in]](https://www.linkedin.com/in/adsonhenrique/)
 
-Bachelor of Computer Engineering at UniEVANGÉLICA with an emphasis on Software and Master in Computer Engineering at the University of Jaén - Spain. 
+Bachelor of Computer Engineering at UniEVANGÉLICA University Center (Brazil) and Master in Computer Engineering at the University of Jaén (Spain). 
 
 My professional goal is help people with technology.
-
 
 
 ### My stats 
