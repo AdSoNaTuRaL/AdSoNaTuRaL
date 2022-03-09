@@ -8,7 +8,7 @@ My professional goal is help people with technology.
 
 ##
 
-### :earth_americas: Get in touch
+### :calling: Get in touch
 
 <a href="https://www.linkedin.com/in/adsonhenrique/" target="_blank">
   <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -22,7 +22,7 @@ My professional goal is help people with technology.
 
 ##
 
-### :rocket: My Skills
+### :hammer: My Skills
 <div style="display: inline_block">
   <img align="center" alt="Javascript" src="https://img.shields.io/badge/javascript-%23202020.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img align="center" alt="React" src="https://img.shields.io/badge/react-%23202020?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -46,7 +46,7 @@ My professional goal is help people with technology.
 
 ##
   
-### 📊 My stats
+### :rocket: My stats
 
 [badge-linked-in]: https://img.shields.io/badge/LinkedIn-adsonhenrique-blue?style=plastic&logo=Linkedin&logoColor=white
 
