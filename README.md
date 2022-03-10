@@ -19,7 +19,7 @@ My professional goal is help people with technology.
 <a href="https://www.twitter.com/adsonatural" target="_blank">
   <img align="center" alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a> 
-
+<!-- 
 ##
 
 ### :hammer: My Skills
@@ -53,3 +53,4 @@ My professional goal is help people with technology.
 <a href="https://github.com/AdSoNaTuRaL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsonatural&layout=compact&hide=css, html&theme=dracula&langs_count=6" />
 </a>
+ -->
