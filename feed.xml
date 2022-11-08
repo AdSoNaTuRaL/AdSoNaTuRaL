@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" 
+xmlns:backstage="https://backstage-cms.24i.com"
+xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+	<channel>
+		<Feedtitle>24i Sample Feed</Feedtitle>
+		<updated>2022-05-04 08:53:58</updated>
+
+				<link rel="self" href="https://service-video-library.vice.com/distribution-groups/6102cca5aa5a041f715ee4f6/feed?page=1&amp;per_page=10&amp;token=4b30d03e9e9e82e43ea587028160c15a893300bb37d4326965f0a73ddd251025" type="application/rss+xml" />
+				<link rel="next" href="https://service-video-library.vice.com/distribution-groups/6102cca5aa5a041f715ee4f6/feed?page=2&amp;per_page=10&amp;token=4b30d03e9e9e82e43ea587028160c15a893300bb37d4326965f0a73ddd251025" type="application/rss+xml" />
+				<link rel="last" href="https://service-video-library.vice.com/distribution-groups/6102cca5aa5a041f715ee4f6/feed?page=5&amp;per_page=10&amp;token=4b30d03e9e9e82e43ea587028160c15a893300bb37d4326965f0a73ddd251025" type="application/rss+xml" />
+		
+				<item>
+			<created>2016-11-22 22:23:08</created>
+			<added>2022-10-31 15:30:01</added><backstage:episode_number>6</backstage:episode_number>
+			<backstage:season_number>1</backstage:season_number>
+			<backstage:series_label>BALLS DEEP - TV</backstage:series_label>
+			<backstage:isAdult>No</backstage:isAdult>
+			<media:credit role="producer">Lauren Cynamon</media:credit>
+			<media:credit role="director"></media:credit>
+<backstage:age_rating_type>tv-us</backstage:age_rating_type>
+<backstage:age_rating_value>TV-MA</backstage:age_rating_value> 
+<backstage:age_rating_indicators>TV-MA</backstage:age_rating_indicators>			
+<guid>5834c54e34bf6596127f8a47</guid>
+			<backstage:release_date>2016-12-08 00:00:00</backstage:release_date>
+			<media:title>Dead</media:title>
+<backstage:short_description>Thomas attends an autopsy to figure out what happens when (and after) you die.</backstage:short_description>
+			<media:category>TV Production</media:category>
+			<media:keywords>vice_videos:premiere, Arizona, brains, morgue, forensics, fencing, Funerals, DESERT, body, Autopsy, forensic pathology, lizards, bone saws, medical examiner, coroner, neuropathology, bolt cutters, cycstosis, cadaver, cremation, last rites, funeral directing, forensic psychics</media:keywords>
+			<media:thumbnail url="https://video-library-images.vice.com/74a8f7216956fb43e45c4385/5a6a4c8bf1cdb36a41393aed.jpg"/>
+			<thumbnailPath>74a8f7216956fb43e45c4385/5a6a4c8bf1cdb36a41393aed.jpg</thumbnailPath>
+			<media:content url="https://vms.vice.com/v1/feed/6102cca5aa5a041f715ee4f6/video/5834c54e34bf6596127f8a47/streams/hls?token=4b30d03e9e9e82e43ea587028160c15a893300bb37d4326965f0a73ddd251025" type="application/vnd.apple.mpegurl" duration="1358"></media:content>
+		</item>
+				<item>
+			<created>2016-02-09 15:18:43</created>
+			<added>2022-10-31 15:30:01</added><backstage:episode_number>2</backstage:episode_number>
+			<backstage:season_number>1</backstage:season_number>
+			<backstage:series_label>BALLS DEEP - TV</backstage:series_label>
+			<backstage:isAdult>No</backstage:isAdult>
+			<media:credit role="producer">Lauren Cynamon</media:credit>
+			<media:credit role="director"></media:credit>
+<backstage:age_rating_type>tv-us</backstage:age_rating_type>
+<backstage:age_rating_value>TV-14</backstage:age_rating_value> 
+<backstage:age_rating_indicators>TV-14</backstage:age_rating_indicators>			
+<guid>56ba0355f5c7b009038f4db4</guid>
+			<backstage:release_date>2016-03-02 00:00:00</backstage:release_date>
+			<media:title>Tugs</media:title>
+<backstage:short_description>Thomas tries not to lose his fingers working as a deckhand on a NYC tugboat.</backstage:short_description>
+			<media:category>TV Production</media:category>
+			<media:keywords>vice_videos:premiere, documentary, New York, vice_videos:en_us, vice_videos:en_ca,  sub.culture, injury, THOMAS MORTON, Cult, anthropology, Staten Island, ordinary people, ethnography, clique, fly on the wall, other people&#039;s lives, normal stuff, unintentional comedy, awkwardness, very intentional comedy, tugboats, tugs, harbor, container shipping, learning the ropes, pirate movies, hand injuries, knotwork, sailing knots</media:keywords>
+			<media:thumbnail url="https://video-library-images.vice.com/4bd4f830900b7c5f5530ab65/5a6a4270f1cdb36a4138f902.jpg"/>
+			<thumbnailPath>4bd4f830900b7c5f5530ab65/5a6a4270f1cdb36a4138f902.jpg</thumbnailPath>
+			<media:content url="https://vms.vice.com/v1/feed/6102cca5aa5a041f715ee4f6/video/56ba0355f5c7b009038f4db4/streams/hls?token=4b30d03e9e9e82e43ea587028160c15a893300bb37d4326965f0a73ddd251025" type="application/vnd.apple.mpegurl" duration="1347"></media:content>
+		</item>
+				<item>
+			<created>2016-11-16 20:58:38</created>
+			<added>2022-10-31 15:30:01</added><backstage:episode_number>5</backstage:episode_number>
+			<backstage:season_number>1</backstage:season_number>
+			<backstage:series_label>BALLS DEEP - TV</backstage:series_label>
+			<backstage:isAdult>No</backstage:isAdult>
+			<media:credit role="producer">Lauren Cynamon</media:credit>
+			<media:credit role="director"></media:credit>
+<backstage:age_rating_type>tv-us</backstage:age_rating_type>
+<backstage:age_rating_value>TV-14</backstage:age_rating_value> 
+<backstage:age_rating_indicators>TV-14</backstage:age_rating_indicators>			
+<guid>582cc881c1fcbb6712edad4d</guid>
+			<backstage:release_date>2016-12-01 00:00:00</backstage:release_date>
+			<media:title>Frosh</media:title>
+<backstage:short_description>The freshperson class of 2020 begins their first week of school at Beloit College.</backstage:short_description>
+			<media:category>TV Production</media:category>
+			<media:keywords>COLLEGE, education, vice_videos:premiere, culture, subculture, ACTING, wisconsin, political correctness, PCU, Beloit, drama club, theater girls, rush week, frosh, freshman, freshperson</media:keywords>
+			<media:thumbnail url="https://video-library-images.vice.com/d4dade2176bbcf1c188cc285/5a6a4c3ff1cdb36a413938d7.jpg"/>
+			<thumbnailPath>d4dade2176bbcf1c188cc285/5a6a4c3ff1cdb36a413938d7.jpg</thumbnailPath>
+			<media:content url="https://vms.vice.com/v1/feed/6102cca5aa5a041f715ee4f6/video/582cc881c1fcbb6712edad4d/streams/hls?token=4b30d03e9e9e82e43ea587028160c15a893300bb37d4326965f0a73ddd251025" type="application/vnd.apple.mpegurl" duration="1353"></media:content>
+		</item>
+				<item>
+			<created>2016-02-24 16:37:32</created>
+			<added>2022-10-31 15:30:01</added><backstage:episode_number>3</backstage:episode_number>
+			<backstage:season_number>1</backstage:season_number>
+			<backstage:series_label>BALLS DEEP - TV</backstage:series_label>
+			<backstage:isAdult>No</backstage:isAdult>
+			<media:credit role="producer">Lauren Cynamon</media:credit>
+			<media:credit role="director"></media:credit>
+<backstage:age_rating_type>tv-us</backstage:age_rating_type>
+<backstage:age_rating_value>TV-14</backstage:age_rating_value> 
+<backstage:age_rating_indicators>TV-14</backstage:age_rating_indicators>			
+<guid>56cddc59a842437f5f3c30c7</guid>
+			<backstage:release_date>2016-03-09 00:00:00</backstage:release_date>
+			<media:title>Ramadan</media:title>
+<backstage:short_description>Thomas joins a Muslim family in Michigan to fast for the holy month of Ramadan.</backstage:short_description>
+			<media:category>TV Production</media:category>
+			<media:keywords>vice_videos:premiere, documentary, vice_videos:en_us, vice_videos:en_ca, Lebanon, religion, Michigan, Muslims, Islam, tradition, Mecca, Dearborn, ramadan, Islamophobia, fasting, lebanese, mohammed, holy</media:keywords>
+			<media:thumbnail url="https://video-library-images.vice.com/7c03c3f5f734248a95cddc65/5a6a42b3f1cdb36a4138fad0.jpg"/>
+			<thumbnailPath>7c03c3f5f734248a95cddc65/5a6a42b3f1cdb36a4138fad0.jpg</thumbnailPath>
+			<media:content url="https://vms.vice.com/v1/feed/6102cca5aa5a041f715ee4f6/video/56cddc59a842437f5f3c30c7/streams/hls?token=4b30d03e9e9e82e43ea587028160c15a893300bb37d4326965f0a73ddd251025" type="application/vnd.apple.mpegurl" duration="1353"></media:content>
+		</item>
+				<item>
+			<created>2016-02-24 19:40:29</created>
+			<added>2022-10-31 15:30:01</added><backstage:episode_number>4</backstage:episode_number>
+			<backstage:season_number>1</backstage:season_number>
+			<backstage:series_label>BALLS DEEP - TV</backstage:series_label>
+			<backstage:isAdult>No</backstage:isAdult>
+			<media:credit role="producer">Lauren Cynamon</media:credit>
+			<media:credit role="director"></media:credit>
+<backstage:age_rating_type>tv-us</backstage:age_rating_type>
+<backstage:age_rating_value>TV-MA</backstage:age_rating_value> 
+<backstage:age_rating_indicators>TV-MA</backstage:age_rating_indicators>			
+<guid>56ce072dd83ea48920bf051f</guid>
+			<backstage:release_date>2016-03-16 00:00:00</backstage:release_date>
+			<media:title>Bears</media:title>
+<backstage:short_description>At Bear Week, the burliest members of the gay community revel in their heft, hair, and heartiest hankerings. Will Thomas find love in Provincetown? He otter.</backstage:short_description>
+			<media:category>TV Production</media:category>
+			<media:keywords>vice_videos:premiere, gay, vice_videos:en_us, vice_videos:en_ca, DRAG, Bears, bear week, provincetown, gay bears, gay sex, cubs, otters, barebacking, bearbacking, lube, body awareness</media:keywords>
+			<media:thumbnail url="https://video-library-images.vice.com/f150fb02984ae38dd270ec65/5a6a42b5f1cdb36a4138fadb.jpg"/>
+			<thumbnailPath>f150fb02984ae38dd270ec65/5a6a42b5f1cdb36a4138fadb.jpg</thumbnailPath>
+			<media:content url="https://vms.vice.com/v1/feed/6102cca5aa5a041f715ee4f6/video/56ce072dd83ea48920bf051f/streams/hls?token=4b30d03e9e9e82e43ea587028160c15a893300bb37d4326965f0a73ddd251025" type="application/vnd.apple.mpegurl" duration="1358"></media:content>
+		</item>
+				<item>
+			<created>2016-03-17 18:44:35</created>
+			<added>2022-10-31 15:30:01</added><backstage:episode_number>5</backstage:episode_number>
+			<backstage:season_number>1</backstage:season_number>
+			<backstage:series_label>BALLS DEEP - TV</backstage:series_label>
+			<backstage:isAdult>No</backstage:isAdult>
+			<media:credit role="producer">Lauren Cynamon</media:credit>
+			<media:credit role="director"></media:credit>
+<backstage:age_rating_type>tv-us</backstage:age_rating_type>
+<backstage:age_rating_value>TV-14</backstage:age_rating_value> 
+<backstage:age_rating_indicators>TV-14</backstage:age_rating_indicators>			
+<guid>56eafb112a662c8102f09dba</guid>
+			<backstage:release_date>2016-03-23 00:00:00</backstage:release_date>
+			<media:title>Alaska Natives</media:title>
+<backstage:short_description>The Eskimos and Innuit (there&#039;s a difference) of Northern Alaska live off some of the least live-off-able land on Earth. How do they do it? And even more pressingly, why?</backstage:short_description>
+			<media:category>TV Production</media:category>
+			<media:keywords>caribou, vice_videos:premiere, documentary, vice_videos:en_us, vice_videos:en_ca, hunting,  sub.culture, ALASKA, ESKIMO, climate change, hunter, THOMAS MORTON, NATIVES, anthropology, moose, ordinary people, ethnography, fly on the wall, occupations, other people&#039;s lives, normal stuff, unintentional comedy, awkwardness, very intentional comedy, innuit, inupiaq, inupiat, kotzebue, musk ox, sea otter, seal, beaver, hunt, subsistence, kotz, nana lands, native lands, native americans, muktuk, freeze, freeze up, frozen solid, eat up, gonna get cold</media:keywords>
+			<media:thumbnail url="https://video-library-images.vice.com/abd90f2018c266a211bfae65/5a6a4312f1cdb36a4138fdd8.jpg"/>
+			<thumbnailPath>abd90f2018c266a211bfae65/5a6a4312f1cdb36a4138fdd8.jpg</thumbnailPath>
+			<media:content url="https://vms.vice.com/v1/feed/6102cca5aa5a041f715ee4f6/video/56eafb112a662c8102f09dba/streams/hls?token=4b30d03e9e9e82e43ea587028160c15a893300bb37d4326965f0a73ddd251025" type="application/vnd.apple.mpegurl" duration="1353"></media:content>
+		</item>
+				<item>
+			<created>2016-03-23 20:45:54</created>
+			<added>2022-10-31 15:30:01</added><backstage:episode_number>6</backstage:episode_number>
+			<backstage:season_number>1</backstage:season_number>
+			<backstage:series_label>BALLS DEEP - TV</backstage:series_label>
+			<backstage:isAdult>No</backstage:isAdult>
+			<media:credit role="producer">Lauren Cynamon</media:credit>
+			<media:credit role="director"></media:credit>
+<backstage:age_rating_type>tv-us</backstage:age_rating_type>
+<backstage:age_rating_value>TV-MA</backstage:age_rating_value> 
+<backstage:age_rating_indicators>TV-MA</backstage:age_rating_indicators>			
+<guid>56f30082b4c6b35109b2cc04</guid>
+			<backstage:release_date>2016-03-30 00:00:00</backstage:release_date>
+			<media:title>Orgasmic Meditators</media:title>
+<backstage:short_description>Thomas joins new-age explorers in southern California who are feeling out the frontiers of femininity.</backstage:short_description>
+			<media:category>TV Production</media:category>
+			<media:keywords>vice_videos:premiere, documentary, vice_videos:en_us, vice_videos:en_ca, CALIFORNIA, feminism,  sub.culture, Meditation, SPIRITUALITY, THOMAS MORTON, anthropology, southern california, ordinary people, ethnography, fly on the wall, occupations, other people&#039;s lives, normal stuff, unintentional comedy, awkwardness, very intentional comedy, femininity, spiritual, orgasm, new age, new age healers</media:keywords>
+			<media:thumbnail url="https://video-library-images.vice.com/40cc2b90153b6c4b28003f65/5a6a432ff1cdb36a4138feee.jpg"/>
+			<thumbnailPath>40cc2b90153b6c4b28003f65/5a6a432ff1cdb36a4138feee.jpg</thumbnailPath>
+			<media:content url="https://vms.vice.com/v1/feed/6102cca5aa5a041f715ee4f6/video/56f30082b4c6b35109b2cc04/streams/hls?token=4b30d03e9e9e82e43ea587028160c15a893300bb37d4326965f0a73ddd251025" type="application/vnd.apple.mpegurl" duration="1358"></media:content>
+		</item>
+				<item>
+			<created>2016-03-23 20:53:39</created>
+			<added>2022-10-31 15:30:01</added><backstage:episode_number>7</backstage:episode_number>
+			<backstage:season_number>1</backstage:season_number>
+			<backstage:series_label>BALLS DEEP - TV</backstage:series_label>
+			<backstage:isAdult>No</backstage:isAdult>
+			<media:credit role="producer">Lauren Cynamon</media:credit>
+			<media:credit role="director"></media:credit>
+<backstage:age_rating_type>tv-us</backstage:age_rating_type>
+<backstage:age_rating_value>TV-MA</backstage:age_rating_value> 
+<backstage:age_rating_indicators>TV-MA</backstage:age_rating_indicators>			
+<guid>56f3025466be4c360aca8092</guid>
+			<backstage:release_date>2016-04-06 00:00:00</backstage:release_date>
+			<media:title>Last Week of High School</media:title>
+<backstage:short_description>The senior class of two Gary, Indiana high schools get ready to graduate. SENIORS!</backstage:short_description>
+			<media:category>TV Production</media:category>
+			<media:keywords>vice_videos:premiere, vice_videos:en_us, vice_videos:en_ca, high school, coming of age, graduation, seniors, senior class, gary</media:keywords>
+			<media:thumbnail url="https://video-library-images.vice.com/2908aca063c4eb6645203f65/5a6a4330f1cdb36a4138fef6.jpg"/>
+			<thumbnailPath>2908aca063c4eb6645203f65/5a6a4330f1cdb36a4138fef6.jpg</thumbnailPath>
+			<media:content url="https://vms.vice.com/v1/feed/6102cca5aa5a041f715ee4f6/video/56f3025466be4c360aca8092/streams/hls?token=4b30d03e9e9e82e43ea587028160c15a893300bb37d4326965f0a73ddd251025" type="application/vnd.apple.mpegurl" duration="2650"></media:content>
+		</item>
+				<item>
+			<created>2016-10-19 19:50:58</created>
+			<added>2022-10-31 15:30:01</added><backstage:episode_number>1</backstage:episode_number>
+			<backstage:season_number>1</backstage:season_number>
+			<backstage:series_label>BALLS DEEP - TV</backstage:series_label>
+			<backstage:isAdult>No</backstage:isAdult>
+			<media:credit role="producer">Lauren Cynamon</media:credit>
+			<media:credit role="director"></media:credit>
+<backstage:age_rating_type>tv-us</backstage:age_rating_type>
+<backstage:age_rating_value>TV-14</backstage:age_rating_value> 
+<backstage:age_rating_indicators>TV-14</backstage:age_rating_indicators>			
+<guid>5807cea5c96558947ef42c42</guid>
+			<backstage:release_date>2016-10-27 00:00:00</backstage:release_date>
+			<media:title>Seniors</media:title>
+<backstage:short_description>The retirees of Hallandale, Florida keep their golden years busy. SENIORS!</backstage:short_description>
+			<media:category>TV Production</media:category>
+			<media:keywords>vice_videos:premiere, Florida,  sub.culture, retirement, senior citizens, golden years, golden girls, dotage, dotards, the old, the aged, the elderly, aarp discounts, flahridah, hallandale</media:keywords>
+			<media:thumbnail url="https://video-library-images.vice.com/24c24fe74985569c5aec7085/5a6a4a4cf1cdb36a41392d53.jpg"/>
+			<thumbnailPath>24c24fe74985569c5aec7085/5a6a4a4cf1cdb36a41392d53.jpg</thumbnailPath>
+			<media:content url="https://vms.vice.com/v1/feed/6102cca5aa5a041f715ee4f6/video/5807cea5c96558947ef42c42/streams/hls?token=4b30d03e9e9e82e43ea587028160c15a893300bb37d4326965f0a73ddd251025" type="application/vnd.apple.mpegurl" duration="1353"></media:content>
+		</item>
+				<item>
+			<created>2016-10-26 19:14:12</created>
+			<added>2022-10-31 15:30:01</added><backstage:episode_number>2</backstage:episode_number>
+			<backstage:season_number>1</backstage:season_number>
+			<backstage:series_label>BALLS DEEP - TV</backstage:series_label>
+			<backstage:isAdult>No</backstage:isAdult>
+			<media:credit role="producer">Lauren Cynamon</media:credit>
+			<media:credit role="director"></media:credit>
+<backstage:age_rating_type>tv-us</backstage:age_rating_type>
+<backstage:age_rating_value>TV-14</backstage:age_rating_value> 
+<backstage:age_rating_indicators>TV-14</backstage:age_rating_indicators>			
+<guid>58110087c37d3f942f56bf12</guid>
+			<backstage:release_date>2016-11-03 00:00:00</backstage:release_date>
+			<media:title>Trump Campaigners</media:title>
+<backstage:short_description>Thomas meets the super-volunteers stumping for Trump in southern Ohio.</backstage:short_description>
+			<media:category>TV Production</media:category>
+			<media:keywords>vice_videos:premiere, activism, politics,  sub.culture, election, twitter, OHIO, West Virginia, Trump, Clinton, republican party, Campaign, RNC, presidency, campaigning, grass roots, pontiac firebird, Gavin, Ralph Case</media:keywords>
+			<media:thumbnail url="https://video-library-images.vice.com/21fb65f249f3d73c78001185/5a6a4ac5f1cdb36a41392fab.jpg"/>
+			<thumbnailPath>21fb65f249f3d73c78001185/5a6a4ac5f1cdb36a41392fab.jpg</thumbnailPath>
+			<media:content url="https://vms.vice.com/v1/feed/6102cca5aa5a041f715ee4f6/video/58110087c37d3f942f56bf12/streams/hls?token=4b30d03e9e9e82e43ea587028160c15a893300bb37d4326965f0a73ddd251025" type="application/vnd.apple.mpegurl" duration="1353"></media:content>
+		</item>
+			</channel>
+</rss>
