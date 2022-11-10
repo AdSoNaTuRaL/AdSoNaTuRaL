@@ -13,9 +13,6 @@ My professional goal is help people with technology.
 <a href="https://www.linkedin.com/in/adsonhenrique/" target="_blank">
   <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-<a href="mailto:adsonhenriquesilva@gmail.com" target="_blank">
-  <img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a> 
 <!-- 
 ##
 
