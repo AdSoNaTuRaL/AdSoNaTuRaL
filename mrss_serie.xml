@@ -30,6 +30,7 @@
             <backstage:isAdult>No</backstage:isAdult>
             <media:credit role="producer">Bas</media:credit>
             <media:credit role="director">Connor</media:credit>
+            <backstage:externalRefs type="DAI" vodCMSId="adsonTest" vodVideoId="adsonTest2023"></backstage:externalRefs>
             <backstage:age_rating_type>tv-us</backstage:age_rating_type>
             <backstage:age_rating_value>TV-14</backstage:age_rating_value>
             <backstage:age_rating_indicators>TV-14</backstage:age_rating_indicators>
@@ -53,7 +54,7 @@
             <backstage:age_rating_type>tv-us</backstage:age_rating_type>
             <backstage:age_rating_value>TV-14</backstage:age_rating_value>
             <backstage:age_rating_indicators>TV-14</backstage:age_rating_indicators>
-            <guid>57bddc7ca39540ed4498faf3</guid>
+            <backstage:externalRefs type="DAI" vodCMSId="adsonasdfasdfasdfTest" vodVideoId="asdfasdfasdf"></backstage:externalRefs><guid>57bddc7ca39540ed4498faf3</guid>
             <backstage:release_date>2016-10-14</backstage:release_date>
             <media:title>Carolina Speedways</media:title>
             <backstage:short_description>Rick meets diehard fans lamenting the crumbling racetracks of The Carolinas.</backstage:short_description>
