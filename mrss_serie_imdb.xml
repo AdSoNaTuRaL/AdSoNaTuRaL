@@ -6,6 +6,7 @@
             <backstage:episode_number>5</backstage:episode_number>
             <backstage:season_number>1</backstage:season_number>
             <backstage:series_label>ABANDONED</backstage:series_label>
+            <backstage:externalRefs type="IMDB" id="abc123"></backstage:externalRefs>
             <backstage:isAdult>No</backstage:isAdult>
             <media:credit role="producer">Bas</media:credit>
             <media:credit role="director">Connor</media:credit>
