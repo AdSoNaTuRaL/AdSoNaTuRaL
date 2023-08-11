@@ -7,6 +7,7 @@
         "short_description": "מילים ולחן: עידן רייכל, עמית מרדכי, עידו נצר, סטפן, רון ביטון, סטטיק",
         "duration": 120,
         "series": {
+            "label": "Modern Family",
             "external_id": "series-ext-1"
         },
         "genres": [],
@@ -39,6 +40,7 @@
         "short_description": "מילים ולחן: עידן רייכל, עמית מרדכי, עידו נצר, סטפן, רון ביטון, סטטיק",
         "duration": 120,
         "series": {
+            "label": "Modern Family",
             "external_id": "series-ext-1"
         },
         "genres": [],
