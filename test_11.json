@@ -1,0 +1,105 @@
+[
+    {
+        "type": "episode",
+        "external_id": "new-external-id",
+        "label": "First episode being & creating a new series",
+        "description": "-",
+        "short_description": "מילים ולחן: עידן רייכל, עמית מרדכי, עידו נצר, סטפן, רון ביטון, סטטיק",
+        "duration": 120,
+        "series": {
+            "external_id": "UMB-462193",
+            "label": "החיים ע\"פ אופיר  ",
+            "description": "סדרת רשת קומית של אופיר בועז על החוויות הקטנות בחיים שאף אחד לא שם עליהן זרקור",
+            "short_description": "סדרת רשת קומית על החוויות הקטנות בחיים שאף אחד לא שם עליהם זרקור",
+            "genres": [],
+            "crew": [],
+            "hidden": false,
+            "images": {
+                "still": [
+                    {
+                        "url": "https://prod-main-kan-cdn.azureedge.net/media/yx1mgwtf/1_cover-image_1920x1080.jpg?share=images/logo/11.png",
+                        "size": {
+                            "width": 1920,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "poster": [
+                    {
+                        "url": "https://prod-main-kan-cdn.azureedge.net/media/suebpua3/6_poster-image-big_1200x1800.jpg",
+                        "size": {
+                            "width": 1200,
+                            "height": 1800
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "url": "https://prod-main-kan-cdn.azureedge.net/media/1rtdm3l0/2_clean-cover-image_1920x1080_no-logo.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "backgroundPoster": [],
+                "heroPortrait": [],
+                "heroPoster": []
+            }
+        },
+        "genres": [],
+        "crew": [],
+        "hidden": false,
+        "season_number": 1,
+        "episode_number": 2,
+        "images": {
+            "still": [
+                {
+                    "url": "https://prod-main-kan-cdn.azureedge.net/media/pprojequ/יחצ-סטפן.jpg",
+                    "size": {
+                        "width": 3018,
+                        "height": 4536
+                    }
+                }
+            ],
+            "poster": [],
+            "background": [],
+            "backgroundPoster": [],
+            "heroPortrait": [],
+            "heroPoster": []
+        }
+    },
+    {
+        "type": "episode",
+        "external_id": "new-external-id-2",
+        "label": "Second episode being added to the series that already exists",
+        "description": "-",
+        "short_description": "מילים ולחן: עידן רייכל, עמית מרדכי, עידו נצר, סטפן, רון ביטון, סטטיק",
+        "duration": 120,
+        "series": {
+            "external_id": "UMB-462193",
+            "label": "החיים ע\"פ אופיר  "
+        },
+        "genres": [],
+        "crew": [],
+        "hidden": false,
+        "season_number": 1,
+        "episode_number": 2,
+        "images": {
+            "still": [
+                {
+                    "url": "https://prod-main-kan-cdn.azureedge.net/media/pprojequ/יחצ-סטפן.jpg",
+                    "size": {
+                        "width": 3018,
+                        "height": 4536
+                    }
+                }
+            ],
+            "poster": [],
+            "background": [],
+            "backgroundPoster": [],
+            "heroPortrait": [],
+            "heroPoster": []
+        }
+    }
+]
