@@ -1,0 +1,66 @@
+[
+    {
+        "type": "episode",
+        "external_id": "new-external-id",
+        "label": "First episode being to a series that already exists and was created manually",
+        "description": "-",
+        "short_description": "מילים ולחן: עידן רייכל, עמית מרדכי, עידו נצר, סטפן, רון ביטון, סטטיק",
+        "duration": 120,
+        "series": {
+            "external_id": "series-ext-1"
+        },
+        "genres": [],
+        "crew": [],
+        "hidden": false,
+        "season_number": 1,
+        "episode_number": 2,
+        "images": {
+            "still": [
+                {
+                    "url": "https://prod-main-kan-cdn.azureedge.net/media/pprojequ/יחצ-סטפן.jpg",
+                    "size": {
+                        "width": 3018,
+                        "height": 4536
+                    }
+                }
+            ],
+            "poster": [],
+            "background": [],
+            "backgroundPoster": [],
+            "heroPortrait": [],
+            "heroPoster": []
+        }
+    },
+    {
+        "type": "episode",
+        "external_id": "new-external-id-2",
+        "label": "Second episode being to a series that already exists and was created manually",
+        "description": "-",
+        "short_description": "מילים ולחן: עידן רייכל, עמית מרדכי, עידו נצר, סטפן, רון ביטון, סטטיק",
+        "duration": 120,
+        "series": {
+            "external_id": "series-ext-1"
+        },
+        "genres": [],
+        "crew": [],
+        "hidden": false,
+        "season_number": 1,
+        "episode_number": 3,
+        "images": {
+            "still": [
+                {
+                    "url": "https://prod-main-kan-cdn.azureedge.net/media/pprojequ/יחצ-סטפן.jpg",
+                    "size": {
+                        "width": 3018,
+                        "height": 4536
+                    }
+                }
+            ],
+            "poster": [],
+            "background": [],
+            "backgroundPoster": [],
+            "heroPortrait": [],
+            "heroPoster": []
+        }
+    }
+]
