@@ -1,0 +1,35 @@
+[
+    {
+        "type": "episode",
+        "external_id": "new-external-id-4",
+        "label": "Four episode being added to the series that already exists",
+        "description": "-",
+        "short_description": "מילים ולחן: עידן רייכל, עמית מרדכי, עידו נצר, סטפן, רון ביטון, סטטיק",
+        "duration": 120,
+        "series": {
+            "external_id": "UMB-462193",
+            "label": "החיים ע\"פ אופיר  "
+        },
+        "genres": [],
+        "crew": [],
+        "hidden": false,
+        "season_number": 1,
+        "episode_number": 4,
+        "images": {
+            "still": [
+                {
+                    "url": "https://prod-main-kan-cdn.azureedge.net/media/pprojequ/יחצ-סטפן.jpg",
+                    "size": {
+                        "width": 3018,
+                        "height": 4536
+                    }
+                }
+            ],
+            "poster": [],
+            "background": [],
+            "backgroundPoster": [],
+            "heroPortrait": [],
+            "heroPoster": []
+        }
+    }
+]
