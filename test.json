@@ -1,0 +1,226 @@
+[
+  {
+    "type": "episode",
+    "external_id": "UMB-490379",
+    "label": "הנס של גלילה: בת ה-7 שסבלה ממחלה נדירה - וחזרה לראות בזכות טיפול ייחודי",
+    "description": "תסמונת נדירה הפכה את חייה של גלילה ומשפחתה לסיוט, ובזכות זריקה של חומר גנטי, היא יכולה שוב לראות",
+    "short_description": "",
+    "duration": 284,
+    "genres": [],
+    "crew": [
+      {
+        "label": "נוב ראובני",
+        "role": null
+      }
+    ],
+    "hidden": false,
+    "season_number": 2,
+    "episode_number": 9947,
+    "series": {
+      "type": "series",
+      "external_id": "2051",
+      "label": "קטעים מהמהדורה",
+      "description": "כתבות חדשותיות, כתבות מגזין וראיונות מתוך חדשות הערב\u00A0",
+      "short_description": "כתבות חדשותיות, כתבות מגזין וראיונות מתוך חדשות הערב ",
+      "genres": [],
+      "crew": [],
+      "hidden": false,
+      "season_number": 1,
+      "episode_number": 0,
+      "channel_label": "KAN11",
+      "images": {
+        "still": [
+          {
+            "url": "https://prod-main-kan-cdn.azureedge.net/media/ndicqeg5/2022-11-15-imgid-85585_a.jpeg?share=images/logo/11.png",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://prod-main-kan-cdn.azureedge.net/media/ndicqeg5/2022-11-15-imgid-85585_a.jpeg",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://prod-main-kan-cdn.azureedge.net/media/dbabbocj/רקע-לחדשות-1920x1080.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ],
+        "backgroundPoster": [],
+        "heroPortrait": [],
+        "heroPoster": []
+      },
+      "editions": [
+        {
+          "label": "קטעים מהמהדורה",
+          "editionType": "full",
+          "streams": []
+        }
+      ]
+    },
+    "channel_label": "KAN11",
+    "startsAt": 1692176400,
+    "endsAt": 1692176684,
+    "images": {
+      "still": [
+        {
+          "url": "https://prod-main-kan-cdn.azureedge.net/media/h4tlet5i/12.jpg",
+          "size": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      ],
+      "poster": [],
+      "background": [
+        {
+          "url": "https://prod-main-kan-cdn.azureedge.net/media/h4tlet5i/12.jpg",
+          "size": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      ],
+      "backgroundPoster": [],
+      "heroPortrait": [],
+      "heroPoster": []
+    },
+    "editions": [
+      {
+        "label": "הנס של גלילה: בת ה-7 שסבלה ממחלה נדירה - וחזרה לראות בזכות טיפול ייחודי",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_g9f3c4zq/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "UMB-490381",
+    "label": "התחזית 16.08.23: מחר יתחמם ובשישי עומס חום",
+    "description": "מחר יהיה בהיר וצפויה עלייה קלה בטמפרטורות. בשישי יתחמם יותר ותורגש הכבדה בעומס החום",
+    "short_description": "",
+    "duration": 8,
+    "genres": [],
+    "crew": [
+      {
+        "label": "שרון וכסלר",
+        "role": null
+      },
+      {
+        "label": "",
+        "role": null
+      }
+    ],
+    "hidden": false,
+    "season_number": 1,
+    "episode_number": 9946,
+    "series": {
+      "type": "series",
+      "external_id": "2051",
+      "label": "קטעים מהמהדורה",
+      "description": "כתבות חדשותיות, כתבות מגזין וראיונות מתוך חדשות הערב\u00A0",
+      "short_description": "כתבות חדשותיות, כתבות מגזין וראיונות מתוך חדשות הערב ",
+      "genres": [],
+      "crew": [],
+      "hidden": false,
+      "season_number": 1,
+      "episode_number": 0,
+      "channel_label": "KAN11",
+      "images": {
+        "still": [
+          {
+            "url": "https://prod-main-kan-cdn.azureedge.net/media/ndicqeg5/2022-11-15-imgid-85585_a.jpeg?share=images/logo/11.png",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://prod-main-kan-cdn.azureedge.net/media/ndicqeg5/2022-11-15-imgid-85585_a.jpeg",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://prod-main-kan-cdn.azureedge.net/media/dbabbocj/רקע-לחדשות-1920x1080.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ],
+        "backgroundPoster": [],
+        "heroPortrait": [],
+        "heroPoster": []
+      },
+      "editions": [
+        {
+          "label": "קטעים מהמהדורה",
+          "editionType": "full",
+          "streams": []
+        }
+      ]
+    },
+    "channel_label": "KAN11",
+    "startsAt": 1692176400,
+    "endsAt": 1692176408,
+    "images": {
+      "still": [
+        {
+          "url": "https://prod-main-kan-cdn.azureedge.net/media/ilpnausq/13.jpg",
+          "size": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      ],
+      "poster": [],
+      "background": [
+        {
+          "url": "https://prod-main-kan-cdn.azureedge.net/media/ilpnausq/13.jpg",
+          "size": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      ],
+      "backgroundPoster": [],
+      "heroPortrait": [],
+      "heroPoster": []
+    },
+    "editions": [
+      {
+        "label": "התחזית 16.08.23: מחר יתחמם ובשישי עומס חום",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_g76ukfah/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  }
+]
