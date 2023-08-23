@@ -40,13 +40,6 @@
             "backgroundPoster": [],
             "heroPortrait": [],
             "heroPoster": []
-        },
-        "editions": [
-            {
-                "label": "לבד בבית",
-                "editionType": "full",
-                "streams": []
-            }
-        ]
+        }
     }
 ]
