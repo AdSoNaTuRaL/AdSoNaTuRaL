@@ -120,11 +120,7 @@
     "crew": [
       {
         "label": "שרון וכסלר",
-        "role": null
-      },
-      {
-        "label": "",
-        "role": null
+        "role": "Director"
       }
     ],
     "hidden": false,
