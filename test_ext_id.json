@@ -6,7 +6,10 @@
         "description": "-",
         "short_description": "מילים ולחן: עידן רייכל, עמית מרדכי, עידו נצר, סטפן, רון ביטון, סטטיק",
         "duration": 120,
-        "genres": [],
+        "genres": [
+          "חינוכית",
+          "ילדים ונוער"
+        ],
         "crew": [],
         "hidden": false,
         "season_number": 1,
