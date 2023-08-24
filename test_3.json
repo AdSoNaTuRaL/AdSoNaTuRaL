@@ -6,7 +6,9 @@
         "description": "-",
         "short_description": "-",
         "duration": 1202,
-        "series": "c3b50560-4282-11ee-96e8-57b86356f4bb",
+        "series": {
+            "external_id": "UMB-462193"
+        },
         "genres": ["Action", "Comedy"],
         "crew": [
             {
