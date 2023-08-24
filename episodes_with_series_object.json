@@ -17,7 +17,7 @@
             "label": "לבד בבית",
             "description": "דודי ונתי צור נוסעים לחופשה ספונטנית בת 3 ימים באי פאקוס, ומשאירים בבית את 4 ילדיהם הרועשים והמפונקים-מיקה(16), רוני(14), איה(14), ונבו(8).וירוס מסתורי שמתגלה בפאקוס מוביל לסגר מיידי על האי ומונע מנתי ודודי לחזור הביתה... עד שהם יחזרו - 4 האחים, שלא מסתדרים ביניהם גם כשההורים כן בבית, נאלצים להסתדר לגמרי לבדם...",
             "short_description": "כשההורים שלך נוסעים לחופשה של כמה ימים בחו\"ל ו...נתקעים שם",
-            "genres": [],
+            "genres": ["Adson", "Henrique", "Moreira", "da", "Silva"],
             "crew": [
                  {
                     "label": "שרון וכסלר",
@@ -29,9 +29,6 @@
                   }
             ],
             "hidden": false,
-            "season_number": 1,
-            "episode_number": 0,
-            "channel_label": "KANKIDS",
             "images": {
                 "still": [
                     {
@@ -63,16 +60,8 @@
                 "backgroundPoster": [],
                 "heroPortrait": [],
                 "heroPoster": []
-            },
-            "editions": [
-                {
-                    "label": "לבד בבית",
-                    "editionType": "full",
-                    "streams": []
-                }
-            ]
+            }
         },
-        "channel_label": "KANKIDS",
         "startsAt": 1634763600,
         "endsAt": 1634764984,
         "images": {
