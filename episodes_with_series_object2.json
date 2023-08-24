@@ -62,8 +62,8 @@
                 "heroPoster": []
             }
         },
-        "startsAt": 1634763600,
-        "endsAt": 1634764984,
+        "starts_at": 1634763600,
+        "ends_at": 1634764984,
         "images": {
             "still": [
                 {
