@@ -1,7 +1,7 @@
 [
     {
         "type": "episode",
-        "external_id": "new-external-id",
+        "external_id": "existing-series-external-id",
         "label": "Four episode being to a series that already exists and was created through importer",
         "description": "-",
         "short_description": "-",
