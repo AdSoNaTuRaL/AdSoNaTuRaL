@@ -1,0 +1,160 @@
+[
+    {
+        "type": "episode",
+        "external_id": "131990",
+        "label": "לבד בבית | עונה 2 | איפה נבנב? | פרק 16",
+        "description": "רגע לפני שההורים חוזרים הביתה, מגלים מיקה רוני ואיה שנבו נעלם...האם הם יספיקו למצוא אותו לפניי שההורים חוזרים? ואיך זה קשור לניסן קיל?",
+        "short_description": "רגע לפני שההורים חוזרים הביתה, מגלים מיקה רוני ואיה שנבו נעלם...",
+        "duration": 1384,
+        "genres": [],
+        "crew": [],
+        "hidden": false,
+        "season_number": 2,
+        "episode_number": 16,
+        "series": {
+            "type": "series",
+            "external_id": "1778",
+            "label": "לבד בבית",
+            "description": "דודי ונתי צור נוסעים לחופשה ספונטנית בת 3 ימים באי פאקוס, ומשאירים בבית את 4 ילדיהם הרועשים והמפונקים-מיקה(16), רוני(14), איה(14), ונבו(8).וירוס מסתורי שמתגלה בפאקוס מוביל לסגר מיידי על האי ומונע מנתי ודודי לחזור הביתה... עד שהם יחזרו - 4 האחים, שלא מסתדרים ביניהם גם כשההורים כן בבית, נאלצים להסתדר לגמרי לבדם...",
+            "short_description": "כשההורים שלך נוסעים לחופשה של כמה ימים בחו\"ל ו...נתקעים שם",
+            "genres": ["Adson", "Henrique", "Moreira", "da", "Silva"],
+            "crew": [
+                 {
+                    "label": "שרון וכסלר",
+                    "role": "Actor"
+                  },
+                  {
+                    "label": "Adson test",
+                    "role": "Director"
+                  }
+            ],
+            "hidden": false,
+            "images": {
+                "still": [
+                    {
+                        "url": "https://kanwebtest-migration.azurewebsites.net/media/ro0fnpzo/2022-8-8-imgid-79363_x.jpeg?share=images/logo/11.png",
+                        "size": {
+                            "width": 1980,
+                            "height": 412
+                        }
+                    }
+                ],
+                "poster": [
+                    {
+                        "url": "https://kanwebtest-migration.azurewebsites.net/media/n33h15rw/https-kanstaticazureedgenet-download-pictures-2022-8-8-imgid-78916_k.jpeg",
+                        "size": {
+                            "width": 239,
+                            "height": 360
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "url": "https://kanwebtest-migration.azurewebsites.net/media/fzdfawzb/https-kanwebblobcorewindowsnet-download-pictures-2022-10-24-imgid-83918_aa.jpeg",
+                        "size": {
+                            "width": 1920,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "backgroundPoster": [],
+                "heroPortrait": [],
+                "heroPoster": []
+            }
+        },
+        "starts_at": 1634763600,
+        "ends_at": 1634764984,
+        "images": {
+            "still": [
+                {
+                    "url": "https://kanwebtest-migration.azurewebsites.net/media/ouii3cox/2022-8-23-imgid-80275_b.jpeg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [],
+            "background": [
+                {
+                    "url": "https://kanwebtest-migration.azurewebsites.net/media/ouii3cox/2022-8-23-imgid-80275_b.jpeg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPoster": [],
+            "heroPortrait": [],
+            "heroPoster": []
+        },
+        "editions": [
+            {
+                "label": "לבד בבית | עונה 2 | איפה נבנב? | פרק 16",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_q1hdhmyy/format/applehttp/protocol/https/desiredFileName.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "episode",
+        "external_id": "12345",
+        "label": "לבד בבית | עונה 2 | איפה נבנב? | פרק 16",
+        "description": "רגע לפני שההורים חוזרים הביתה, מגלים מיקה רוני ואיה שנבו נעלם...האם הם יספיקו למצוא אותו לפניי שההורים חוזרים? ואיך זה קשור לניסן קיל?",
+        "short_description": "רגע לפני שההורים חוזרים הביתה, מגלים מיקה רוני ואיה שנבו נעלם...",
+        "duration": 1384,
+        "genres": [],
+        "crew": [],
+        "hidden": false,
+        "season_number": 2,
+        "episode_number": 17,
+        "series": {
+            "external_id": "1778",
+        },
+        "starts_at": 1634763600,
+        "ends_at": 1634764984,
+        "images": {
+            "still": [
+                {
+                    "url": "https://kanwebtest-migration.azurewebsites.net/media/ouii3cox/2022-8-23-imgid-80275_b.jpeg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [],
+            "background": [
+                {
+                    "url": "https://kanwebtest-migration.azurewebsites.net/media/ouii3cox/2022-8-23-imgid-80275_b.jpeg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPoster": [],
+            "heroPortrait": [],
+            "heroPoster": []
+        },
+        "editions": [
+            {
+                "label": "לבד בבית | עונה 2 | איפה נבנב? | פרק 16",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_q1hdhmyy/format/applehttp/protocol/https/desiredFileName.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ]
+    }
+]
