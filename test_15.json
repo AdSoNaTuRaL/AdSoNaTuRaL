@@ -6,9 +6,7 @@
         "description": "-",
         "short_description": "-",
         "duration": 1202,
-        "series": {
-            "id": "231beb00-427f-11ee-984d-fdf326bce5e4"
-        },
+        "series": "c3b50560-4282-11ee-96e8-57b86356f4bb",
         "genres": ["Action", "Comedy"],
         "crew": [
             {
