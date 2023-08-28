@@ -1,0 +1,2086 @@
+[
+  {
+    "type": "episode",
+    "external_id": "148780",
+    "label": "פגישה עם רוני קובן | איימן עודה",
+    "description": "איימן עודה מגיע ל״פגישה עם רוני קובן״ בשיאה של הדרמה הפוליטית שמסעירה את ישראל, ומציע תסריט אופטימי.",
+    "short_description": "בשיאה של הדרמה הפוליטית שמסעירה את ישראל, עודה מציע תסריט אופטימי",
+    "series": {
+      "type": "series",
+      "external_id": "1189",
+      "label": "פגישה עם רוני קובן",
+      "description": "תוכנית ראיונות אישית בהגשת העיתונאי רוני קובן, זוכת פרס הטלוויזיה לתוכנית הראיונות הטובה ביותר&nbsp;",
+      "short_description": "תכנית ראיונות אישית, זוכת פרס האקדמיה, בהגשת העיתונאי רוני קובן",
+      "channel_label": "KAN11",
+      "episode_number": 0,
+      "crew": [
+        
+      ],
+      "hidden": false,
+      "images": {
+        "still": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/mv4b31gf/2023-3-20-imgid-96431_a.jpeg",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/m3ch3ozx/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1200x1800-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-7b287a0f-9cde-4b96-b82d-7f349de0f6da.jpg",
+            "size": {
+              "width": 1200,
+              "height": 1800
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/hydj2cek/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1920x1080-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-1f7b4c65-78f0-49af-8a8d-dd968a7a584f.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ],
+        "backgroundPoster": [
+          
+        ],
+        "heroPortrait": [
+          
+        ],
+        "heroPoster": [
+          
+        ]
+      },
+      "genres": [
+        
+      ],
+      "season_number": 1,
+      "editions": [
+        {
+          "label": "פגישה עם רוני קובן",
+          "editionType": "full",
+          "streams": [
+            
+          ]
+        }
+      ]
+    },
+    "channel_label": "KAN11",
+    "episode_number": 7,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/mj4h5n2i/2023-3-27-imgid-96957_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/mj4h5n2i/2023-3-27-imgid-96957_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 1789,
+    "season_number": 7,
+    "editions": [
+      {
+        "label": "פגישה עם רוני קובן | איימן עודה",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_v1w7ou2s/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "147669",
+    "label": "צליל מכוון 2 | נעמי פולני",
+    "description": "צליל מכוון 2 | נעמי פולני",
+    "short_description": "צליל מכוון 2 | נעמי פולני",
+    "channel_label": "KAN11",
+    "episode_number": 0,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/esjlcf1y/2023-3-13-imgid-95841_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/esjlcf1y/2023-3-13-imgid-95841_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 1676,
+    "season_number": 2,
+    "editions": [
+      {
+        "label": "צליל מכוון 2 | נעמי פולני",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_g8s8w717/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "141965",
+    "label": "השמרטפים | עונה 2 | מעין מצור הדסה | פרק 16",
+    "description": "נעמי לבוב משמרטפת על מעין מצור הדסה שלא מזמן החלימה ממחלת הסרטן, וביחד הן ילכו לאימון ברכיבה על סוסים שאליהם התגעגעה מאוד כשהייתה חולה",
+    "short_description": "נעמי לבוב מגיעה למעין, שהחלימה ממחלת הסרטן ויחד הן ילמדו לרכוב על סוס",
+    "series": {
+      "type": "series",
+      "external_id": "1872",
+      "label": "השמרטפים",
+      "description": "יניב ביטון, נעמי לבוב ויניב סויסה הם השמרטפים החדשים של ילדי ישראל. בכל פרק יגיע אחד מהם לבית של ילדה או ילד אחרים, מכל התרבויות והאיזורים בארץ, ישאר לשמור עליהם בזמן שההורים יוצאים לבלות וייחשף לעולמם המיוחד. תוך כדי שמירה על חוקי הבית כמובן!",
+      "short_description": "הכירו את השמרטפים החדשים של ילדי ישראל! בכל פרק נכיר את עולמו של ילד ",
+      "channel_label": "KANKIDS",
+      "episode_number": 0,
+      "crew": [
+        
+      ],
+      "hidden": false,
+      "images": {
+        "still": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/bfol3d4y/2023-1-4-imgid-90436_x.jpeg",
+            "size": {
+              "width": 1920,
+              "height": 400
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/b05entnu/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1200x1800-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-f939602a-31ef-466e-ac17-8dd3acfb324a.jpg",
+            "size": {
+              "width": 1200,
+              "height": 1800
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/mx4jwcfi/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1920x1080-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-ef97a243-62bc-4f72-96b0-a122d406c262.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ],
+        "backgroundPoster": [
+          
+        ],
+        "heroPortrait": [
+          
+        ],
+        "heroPoster": [
+          
+        ]
+      },
+      "genres": [
+        
+      ],
+      "season_number": 1,
+      "editions": [
+        {
+          "label": "השמרטפים",
+          "editionType": "full",
+          "streams": [
+            
+          ]
+        }
+      ]
+    },
+    "channel_label": "KANKIDS",
+    "episode_number": 16,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/4vdhjmye/2023-4-19-imgid-98487_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/4vdhjmye/2023-4-19-imgid-98487_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 892,
+    "season_number": 2,
+    "editions": [
+      {
+        "label": "השמרטפים | עונה 2 | מעין מצור הדסה | פרק 16",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_a6bodzz2/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "136311",
+    "label": "",
+    "description": "אולי הגיע הזמן שתתחילי לחשוב על דברים אחרים מלבד כדורגל?",
+    "short_description": "אולי הגיע הזמן שתתחילי לחשוב על דברים אחרים מלבד כדורגל?",
+    "series": {
+      "type": "series",
+      "external_id": "2018",
+      "label": "שלי הכובשת",
+      "description": "לשלי, נערה ממגדל העמק שחיה ונושמת כדורגל, יש בעיה – היא הגיעה לגיל בו, לפי החוקים, כבר אין לה אפשרות לשחק בקבוצות עם בנים ובמקום מגוריה אין קבוצת בנות להצטרף אליה. לכן, כשהיא שומעת על ליגה חדשה לילדים ונוער לקבוצות מעורבות בנים-בנות, היא מחליטה להקים את \"אריות העמק\" קבוצה בה היא המאמנת והכוכבת.  מכאן, שלי וחבריה החדשים לקבוצה יצאו למסע כנגד כל הסיכויים במטרה לזכות באליפות המדינה",
+      "short_description": "שלי יוצאת למסע להקמת קבוצת כדורגל ולהביאה לזכות באליפות המדינה",
+      "channel_label": "KANKIDS",
+      "episode_number": 0,
+      "crew": [
+        
+      ],
+      "hidden": false,
+      "images": {
+        "still": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/rcqlmbnv/1920-1080.jpg?share=images/logo/11.png",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/5wibirlv/https-kanstaticazureedgenet-download-pictures-2022-10-12-imgid-83190_k.jpeg",
+            "size": {
+              "width": 239,
+              "height": 360
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/bygaitcz/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1920x1080-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-18812bd7-58e1-4a44-b625-ea45a19b4eae.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ],
+        "backgroundPoster": [
+          
+        ],
+        "heroPortrait": [
+          
+        ],
+        "heroPoster": [
+          
+        ]
+      },
+      "genres": [
+        
+      ],
+      "season_number": 1,
+      "editions": [
+        {
+          "label": "שלי הכובשת",
+          "editionType": "full",
+          "streams": [
+            
+          ]
+        }
+      ]
+    },
+    "channel_label": "KANKIDS",
+    "episode_number": 0,
+    "crew": [
+      
+    ],
+    "hidden": true,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/f4pfvvex/2022-10-18-imgid-83510_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/f4pfvvex/2022-10-18-imgid-83510_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 61,
+    "season_number": 1,
+    "editions": [
+      {
+        "label": "שלי הכובשת | הצצה מתוך פרק 1 | מתחילים ב- 23.10 ⚽?",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_gy73b95g/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "147713",
+    "label": "צליל מכוון 2 | דורי בן זאב",
+    "description": "אין תיאור בKLH",
+    "short_description": "אין תיאור בKLH",
+    "channel_label": "KAN11",
+    "episode_number": 0,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/nuwlmor4/2023-3-13-imgid-95885_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/nuwlmor4/2023-3-13-imgid-95885_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 1666,
+    "season_number": 2,
+    "editions": [
+      {
+        "label": "צליל מכוון 2 | דורי בן זאב",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_8pe7yhac/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "UMB-517130",
+    "label": "השגרה המתוחה בצפון",
+    "description": "השגרה המתוחה בצפון נשמרת ביומיים האחרונים, לאחר מטח רקטות שלא נראה באזור ממלחמת לבנון השנייה. הירי היכה דווקא בתקופה הכי עמוסה של הגליל, והפר בבת אחת את המציאות הפסטורלית בדרך כלל. ריאד עלי כתבנו העביר את סוף השבוע הארוך בצפון – עם הנופשים שבחרו להישאר למרות המתיחות, והמקומיים שחוששים שזו רק הסנונית הראשונה",
+    "short_description": "השגרה המתוחה בצפון",
+    "series": {
+      "type": "series",
+      "external_id": "2051",
+      "label": "קטעים מהמהדורה",
+      "description": "כתבות חדשותיות, כתבות מגזין וראיונות מתוך חדשות הערב ",
+      "short_description": "כתבות חדשותיות, כתבות מגזין וראיונות מתוך חדשות הערב ",
+      "channel_label": "KAN11",
+      "episode_number": 0,
+      "crew": [
+        
+      ],
+      "hidden": false,
+      "images": {
+        "still": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/24un5con/2022-11-15-imgid-85585_a.jpeg?share=images/logo/11.png",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/24un5con/2022-11-15-imgid-85585_a.jpeg",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/24un5con/2022-11-15-imgid-85585_a.jpeg",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "backgroundPoster": [
+          
+        ],
+        "heroPortrait": [
+          
+        ],
+        "heroPoster": [
+          
+        ]
+      },
+      "genres": [
+        
+      ],
+      "season_number": 1,
+      "editions": [
+        {
+          "label": "קטעים מהמהדורה",
+          "editionType": "full",
+          "streams": [
+            
+          ]
+        }
+      ]
+    },
+    "channel_label": "KAN11",
+    "episode_number": 9912,
+    "crew": [
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/opwjlxhc/1496968410.jpg",
+          "size": {
+            "width": 4000,
+            "height": 2667
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/opwjlxhc/1496968410.jpg",
+          "size": {
+            "width": 4000,
+            "height": 2667
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "season_number": 1,
+    "editions": [
+      {
+        "label": "השגרה המתוחה בצפון",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_j3m0510k/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "150248",
+    "label": "פגישה עם רוני קובן | ספיישל יום השואה",
+    "description": "ראיון מיוחד ליום השואה עם נשיא בית המשפט העליון לשעבר, אהרן ברק, המוקדש במלואו לסיפור ילדותו בצל משטר האימים הנאצי בליטא",
+    "short_description": "ראיון מיוחד ליום השואה עם אהרן ברק המוקדש לסיפור ילדותו בצל הנאצים",
+    "series": {
+      "type": "series",
+      "external_id": "1189",
+      "label": "פגישה עם רוני קובן",
+      "description": "תוכנית ראיונות אישית בהגשת העיתונאי רוני קובן, זוכת פרס הטלוויזיה לתוכנית הראיונות הטובה ביותר&nbsp;",
+      "short_description": "תכנית ראיונות אישית, זוכת פרס האקדמיה, בהגשת העיתונאי רוני קובן",
+      "channel_label": "KAN11",
+      "episode_number": 0,
+      "crew": [
+        
+      ],
+      "hidden": false,
+      "images": {
+        "still": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/mv4b31gf/2023-3-20-imgid-96431_a.jpeg",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/m3ch3ozx/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1200x1800-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-7b287a0f-9cde-4b96-b82d-7f349de0f6da.jpg",
+            "size": {
+              "width": 1200,
+              "height": 1800
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/hydj2cek/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1920x1080-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-1f7b4c65-78f0-49af-8a8d-dd968a7a584f.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ],
+        "backgroundPoster": [
+          
+        ],
+        "heroPortrait": [
+          
+        ],
+        "heroPoster": [
+          
+        ]
+      },
+      "genres": [
+        
+      ],
+      "season_number": 1,
+      "editions": [
+        {
+          "label": "פגישה עם רוני קובן",
+          "editionType": "full",
+          "streams": [
+            
+          ]
+        }
+      ]
+    },
+    "channel_label": "KAN11",
+    "episode_number": 0,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/jhdplgzs/2023-4-18-imgid-98411_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/jhdplgzs/2023-4-18-imgid-98411_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 1786,
+    "season_number": 7,
+    "editions": [
+      {
+        "label": "פגישה עם רוני קובן | ספיישל יום השואה",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_66y4g9m8/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "148682",
+    "label": "נפיץ עם תם אהרון | פיילוט",
+    "description": "כשלצדו נציגים של כל ה\"שבטים\" בחברה הישראלית, מבקש הקומיקאי תם אהרון ללבן את הסוגיות הטעונות והבוערות ביותר. והפעם, הדרת נשים מהמרחב הציבורי: כפייה דתית או חירות דמוקרטית? ואף מילה על \"סיפורה של שפחה\"!",
+    "short_description": "הדרת נשים מהמרחב הציבורי: כפייה דתית או חירות דמוקרטית?",
+    "series": {
+      "type": "series",
+      "external_id": "2158",
+      "label": "נפיץ עם תם אהרון",
+      "description": "תם אהרון יוצא למסע דוקו-קומי כדי להבין וללבן את הסוגיות הבוערות, הקשות, מעוררות המחלוקת, ובקיצור - הכי נפיצות ביותר בישראל",
+      "short_description": "תם אהרון יוצא למסע דוקו-קומי כדי להבין וללבן את הסוגיות הנפיצות ביותר",
+      "channel_label": "KAN11",
+      "episode_number": 0,
+      "crew": [
+        
+      ],
+      "hidden": false,
+      "images": {
+        "still": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/wjzj4vme/2023-3-27-imgid-96960_a.jpeg?share=images/logo/11.png",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/wjzj4vme/2023-3-27-imgid-96960_a.jpeg",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/wjzj4vme/2023-3-27-imgid-96960_a.jpeg",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "backgroundPoster": [
+          
+        ],
+        "heroPortrait": [
+          
+        ],
+        "heroPoster": [
+          
+        ]
+      },
+      "genres": [
+        
+      ],
+      "season_number": 1,
+      "editions": [
+        {
+          "label": "נפיץ עם תם אהרון",
+          "editionType": "full",
+          "streams": [
+            
+          ]
+        }
+      ]
+    },
+    "channel_label": "KAN11",
+    "episode_number": 1,
+    "crew": [
+      
+    ],
+    "hidden": true,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/aa2pjnfw/2023-3-26-imgid-96851_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/aa2pjnfw/2023-3-26-imgid-96851_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 2438,
+    "season_number": 1,
+    "editions": [
+      {
+        "label": "נפיץ עם תם אהרון | פיילוט",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_w0sotyyx/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "146525",
+    "label": "צליל מכוון 2 | יאיר ניצני",
+    "description": "יושלם בהמשך",
+    "short_description": "יושלם בהמשך",
+    "channel_label": "KAN11",
+    "episode_number": 0,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/ur4byhla/2023-3-2-imgid-95109_b.jpeg",
+          "size": {
+            "width": 1674,
+            "height": 697
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/ur4byhla/2023-3-2-imgid-95109_b.jpeg",
+          "size": {
+            "width": 1674,
+            "height": 697
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 1689,
+    "season_number": 2,
+    "editions": [
+      {
+        "label": "צליל מכוון 2 | יאיר ניצני",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_axtg1wjk/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "149015",
+    "label": "הבלתי חשובים 3 | פרק 6 - אילן רמון",
+    "description": "מ",
+    "short_description": "מ",
+    "series": {
+      "type": "series",
+      "external_id": "1855",
+      "label": "הבלתי חשובים",
+      "description": "ההיסטוריה הישראלית מלאה בסיפורים על אירועים גדולים: מלחמת ששת הימים, יום כיפור, המהפך של 77',&nbsp;&nbsp;הסכמי אוסלו ועוד. אבל מה לגבי הסיפורים הקטנים, אלה שנותרו כידיעה שולית באחד העיתונים, או כאייטם קצר במדור הרכילות?\"הבלתי חשובים\" לוקחת אותנו&nbsp;לסיפורים הנשכחים, המספרים בדיעבד סיפור גדול בהרבה על מי שהיינו אז ומי שאנחנו היום, ובאנשים שנכחו באותם רגעים שנתפסו אז כמשניים.\r\nיוצרים - אלירן פלד ועידו הרטמן | בימוי והפקה בפועל - אלירן פלד | קריינות - דרור קרן",
+      "short_description": "מסע נוסטלגי בידורי שחושף אירועים נשכחים אבל חשובים מאד",
+      "channel_label": "KAN11",
+      "episode_number": 0,
+      "crew": [
+        
+      ],
+      "hidden": false,
+      "images": {
+        "still": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/mwnlb3e0/2023-3-9-imgid-95607_a.jpeg",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/rrhbv2ru/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1200x1800-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-00bd80c1-1366-42c0-946a-5b488ed83d12.jpg",
+            "size": {
+              "width": 1200,
+              "height": 1800
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/jchgi4zy/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1920x1080-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-4bbd468b-e080-435d-b237-99bb72342024.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ],
+        "backgroundPoster": [
+          
+        ],
+        "heroPortrait": [
+          
+        ],
+        "heroPoster": [
+          
+        ]
+      },
+      "genres": [
+        
+      ],
+      "season_number": 1,
+      "editions": [
+        {
+          "label": "הבלתי חשובים",
+          "editionType": "full",
+          "streams": [
+            
+          ]
+        }
+      ]
+    },
+    "channel_label": "KAN11",
+    "episode_number": 6,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/tpybx2iw/2023-3-30-imgid-97162_b.png",
+          "size": {
+            "width": 1915,
+            "height": 800
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/tpybx2iw/2023-3-30-imgid-97162_b.png",
+          "size": {
+            "width": 1915,
+            "height": 800
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 1894,
+    "season_number": 3,
+    "editions": [
+      {
+        "label": "הבלתי חשובים 3 | פרק 6 - אילן רמון",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_qczss1lq/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "147227",
+    "label": "שקשוקה | עונה 3 | הקטנים נגד הגדולים | פרק 20",
+    "description": "ילדי כיתה ו' בטוחים שהם הולכים לצפות בזיקוקים מהגבעה הכי גבוהה בשכונה. התכנית משתבשת כשילדי כיתה א' מחליטים שהם גם רוצים חלק ממנה. מייקי מתוסכל מהמשפחה שלו ומחליט לברוח מהבית. הוא מוצא את עצמו בהרפתקאה משותפת עם חן",
+    "short_description": "ילדי כיתה א' וילדי כיתה ו' יוצאים למאבק על גבעת הזיקוקים. מי ינצח?",
+    "series": {
+      "type": "series",
+      "external_id": "1808",
+      "label": "שקשוקה",
+      "description": "בעונה השלישית של \"שקשוקה\" יולי חדשה מגיעה וצריכה להשתלב בחבורה המגובשת ודור חדש של ילדי כיתה א' מצטרף לבית החינוך. אנחנו נגלה מה שקשוקה באמת חושבת, למה מייקי לא יודע לרכב על אופניים ומה קורה כשציקי נוני מבלות לראשונה ערב בנפרד",
+      "short_description": "יולי חדשה מגיעה לכיתה ומנסה להשתלב. דור חדש של ילדי כיתה א' מצטרף",
+      "channel_label": "KANKIDS",
+      "episode_number": 0,
+      "crew": [
+        
+      ],
+      "hidden": false,
+      "images": {
+        "still": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/3dvm0kkv/2023-3-9-imgid-95613_x.jpeg?share=images/logo/11.png",
+            "size": {
+              "width": 1920,
+              "height": 400
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/3dvm0kkv/2023-3-9-imgid-95613_x.jpeg",
+            "size": {
+              "width": 1920,
+              "height": 400
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/3dvm0kkv/2023-3-9-imgid-95613_x.jpeg",
+            "size": {
+              "width": 1920,
+              "height": 400
+            }
+          }
+        ],
+        "backgroundPoster": [
+          
+        ],
+        "heroPortrait": [
+          
+        ],
+        "heroPoster": [
+          
+        ]
+      },
+      "genres": [
+        
+      ],
+      "season_number": 1,
+      "editions": [
+        {
+          "label": "שקשוקה",
+          "editionType": "full",
+          "streams": [
+            
+          ]
+        }
+      ]
+    },
+    "channel_label": "KANKIDS",
+    "episode_number": 20,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/5ueiopxm/2023-4-3-imgid-97419_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/5ueiopxm/2023-4-3-imgid-97419_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 1328,
+    "season_number": 3,
+    "editions": [
+      {
+        "label": "שקשוקה | עונה 3 | הקטנים נגד הגדולים | פרק 20",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_bp6w0nie/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "150349",
+    "label": "שקשוקה | עונה 3 | הפספוסים",
+    "description": "הפספוסים הכי קורעים של העונה 🤣",
+    "short_description": "הפספוסים הכי קורעים של העונה 🤣",
+    "series": {
+      "type": "series",
+      "external_id": "1808",
+      "label": "שקשוקה",
+      "description": "בעונה השלישית של \"שקשוקה\" יולי חדשה מגיעה וצריכה להשתלב בחבורה המגובשת ודור חדש של ילדי כיתה א' מצטרף לבית החינוך. אנחנו נגלה מה שקשוקה באמת חושבת, למה מייקי לא יודע לרכב על אופניים ומה קורה כשציקי נוני מבלות לראשונה ערב בנפרד",
+      "short_description": "יולי חדשה מגיעה לכיתה ומנסה להשתלב. דור חדש של ילדי כיתה א' מצטרף",
+      "channel_label": "KANKIDS",
+      "episode_number": 0,
+      "crew": [
+        
+      ],
+      "hidden": false,
+      "images": {
+        "still": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/3dvm0kkv/2023-3-9-imgid-95613_x.jpeg?share=images/logo/11.png",
+            "size": {
+              "width": 1920,
+              "height": 400
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/3dvm0kkv/2023-3-9-imgid-95613_x.jpeg",
+            "size": {
+              "width": 1920,
+              "height": 400
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/3dvm0kkv/2023-3-9-imgid-95613_x.jpeg",
+            "size": {
+              "width": 1920,
+              "height": 400
+            }
+          }
+        ],
+        "backgroundPoster": [
+          
+        ],
+        "heroPortrait": [
+          
+        ],
+        "heroPoster": [
+          
+        ]
+      },
+      "genres": [
+        
+      ],
+      "season_number": 1,
+      "editions": [
+        {
+          "label": "שקשוקה",
+          "editionType": "full",
+          "streams": [
+            
+          ]
+        }
+      ]
+    },
+    "channel_label": "KANKIDS",
+    "episode_number": 0,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/cktngghm/2023-4-19-imgid-98485_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/cktngghm/2023-4-19-imgid-98485_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 155,
+    "season_number": 3,
+    "editions": [
+      {
+        "label": "שקשוקה | עונה 3 | הפספוסים",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_ce6a3krr/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "series",
+    "external_id": "UMB-509656",
+    "label": "Test Video Program",
+    "description": "תיאור לכותר טסט כותר טסט כותר ",
+    "short_description": "",
+    "channel_label": "KAN11",
+    "episode_number": 0,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/3qklmo2w/doco1-2x.png?share=images/logo/11.png",
+          "size": {
+            "width": 747,
+            "height": 420
+          }
+        }
+      ],
+      "poster": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/3qklmo2w/doco1-2x.png",
+          "size": {
+            "width": 747,
+            "height": 420
+          }
+        }
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/3qklmo2w/doco1-2x.png",
+          "size": {
+            "width": 747,
+            "height": 420
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "season_number": 1,
+    "editions": [
+      {
+        "label": "Test Video Program",
+        "editionType": "full",
+        "streams": [
+          
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "UMB-509657",
+    "label": "Test Video Item",
+    "description": "Test Video Item Description",
+    "short_description": "",
+    "series": {
+      "type": "series",
+      "external_id": "UMB-509656",
+      "label": "Test Video Program",
+      "description": "תיאור לכותר טסט כותר טסט כותר ",
+      "short_description": "",
+      "channel_label": "KAN11",
+      "episode_number": 0,
+      "crew": [
+        
+      ],
+      "hidden": false,
+      "images": {
+        "still": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/3qklmo2w/doco1-2x.png?share=images/logo/11.png",
+            "size": {
+              "width": 747,
+              "height": 420
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/3qklmo2w/doco1-2x.png",
+            "size": {
+              "width": 747,
+              "height": 420
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/3qklmo2w/doco1-2x.png",
+            "size": {
+              "width": 747,
+              "height": 420
+            }
+          }
+        ],
+        "backgroundPoster": [
+          
+        ],
+        "heroPortrait": [
+          
+        ],
+        "heroPoster": [
+          
+        ]
+      },
+      "genres": [
+        
+      ],
+      "season_number": 1,
+      "editions": [
+        {
+          "label": "Test Video Program",
+          "editionType": "full",
+          "streams": [
+            
+          ]
+        }
+      ]
+    },
+    "startsAt": 1691485200,
+    "channel_label": "KAN11",
+    "episode_number": 5,
+    "crew": [
+      {
+        "label": ""
+      }
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "season_number": 1,
+    "editions": [
+      {
+        "label": "Test Video Item",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_f7796824/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "149602",
+    "label": "",
+    "description": "השגרה המתוחה בצפון נשמרת ביומיים האחרונים, לאחר מטח רקטות שלא נראה באזור ממלחמת לבנון השנייה. הירי היכה דווקא בתקופה הכי עמוסה של הגליל, והפר בבת אחת את המציאות הפסטורלית בדרך כלל. ריאד עלי כתבנו העביר את סוף השבוע הארוך בצפון – עם הנופשים שבחרו להישאר למרות המתיחות, והמקומיים שחוששים שזו רק הסנונית הראשונה",
+    "short_description": "השגרה המתוחה בצפון נשמרת ביומיים האחרונים",
+    "series": {
+      "type": "series",
+      "external_id": "2051",
+      "label": "קטעים מהמהדורה",
+      "description": "כתבות חדשותיות, כתבות מגזין וראיונות מתוך חדשות הערב ",
+      "short_description": "כתבות חדשותיות, כתבות מגזין וראיונות מתוך חדשות הערב ",
+      "channel_label": "KAN11",
+      "episode_number": 0,
+      "crew": [
+        
+      ],
+      "hidden": false,
+      "images": {
+        "still": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/24un5con/2022-11-15-imgid-85585_a.jpeg?share=images/logo/11.png",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/24un5con/2022-11-15-imgid-85585_a.jpeg",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/24un5con/2022-11-15-imgid-85585_a.jpeg",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "backgroundPoster": [
+          
+        ],
+        "heroPortrait": [
+          
+        ],
+        "heroPoster": [
+          
+        ]
+      },
+      "genres": [
+        
+      ],
+      "season_number": 1,
+      "editions": [
+        {
+          "label": "קטעים מהמהדורה",
+          "editionType": "full",
+          "streams": [
+            
+          ]
+        }
+      ]
+    },
+    "channel_label": "KAN11",
+    "episode_number": 9999,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/ak2jzyx3/2023-4-8-imgid-97756_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/ak2jzyx3/2023-4-8-imgid-97756_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 665,
+    "season_number": 88,
+    "editions": [
+      {
+        "label": "ימים מתוחים בצפון",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_875zzqf1/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "UMB-509763",
+    "label": "המילה האחרונה",
+    "description": "משפחת גולדנברג מתאספת לכבוד ברית המילה של הנכד הראשון. סטס, האבא, מתקשה עם הפרוצדורה אותה עבר בעצמו בגיל מאוחר. ואילו אחותו הקטנה, ענת, מנסה לעזור לאביהם לקבל את הפיצויים שמגיעים לו, אך העניין מסתבך",
+    "short_description": "פרק הבכורה. צעירה ממוצא סובייטי הופכת ל\"קולה של דור\" בעל כורחה",
+    "series": {
+      "type": "series",
+      "external_id": "UMB-509761",
+      "label": "סובייצקה",
+      "description": "ענת, סטודנטית צעירה למתמטיקה, התכחשה כל חייה למוצאה הסובייטי בניסיון להיטמע בחברה הישראלית שבה נולדה וגדלה. תקרית בביטוח לאומי עם אביה הופכת אותה ל\"קול של העלייה\" בניגוד לרצונה",
+      "short_description": "ענת, סטודנטית צעירה למתמטיקה, הופכת ל\"קולה של העלייה\" בניגוד לרצונה",
+      "channel_label": "KAN11",
+      "episode_number": 0,
+      "crew": [
+        
+      ],
+      "hidden": false,
+      "images": {
+        "still": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/rtglavjd/1_cover-image_1920x1080.jpg?share=images/logo/11.png",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/j3wahsr5/6_poster-image-big_1200x1800.jpg",
+            "size": {
+              "width": 1200,
+              "height": 1800
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/y1plqb4j/2_clean-cover-image_1920x1080_no-logo.jpg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ],
+        "backgroundPoster": [
+          
+        ],
+        "heroPortrait": [
+          
+        ],
+        "heroPoster": [
+          
+        ]
+      },
+      "genres": [
+        
+      ],
+      "season_number": 1,
+      "editions": [
+        {
+          "label": "סובייצקה",
+          "editionType": "full",
+          "streams": [
+            
+          ]
+        }
+      ]
+    },
+    "endsAt": 1692005533,
+    "startsAt": 1692003600,
+    "channel_label": "KAN11",
+    "episode_number": 1,
+    "crew": [
+      
+    ],
+    "hidden": true,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/4qzdwwr4/s043507700_20_04_03still004.jpg",
+          "size": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/4qzdwwr4/s043507700_20_04_03still004.jpg",
+          "size": {
+            "width": 1920,
+            "height": 1080
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 1933,
+    "season_number": 1,
+    "editions": [
+      {
+        "label": "סובייצקה | פרק 1 - המילה האחרונה",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_j3m0510k/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "series",
+    "external_id": "2158",
+    "label": "נפיץ עם תם אהרון",
+    "description": "תם אהרון יוצא למסע דוקו-קומי כדי להבין וללבן את הסוגיות הבוערות, הקשות, מעוררות המחלוקת, ובקיצור - הכי נפיצות ביותר בישראל",
+    "short_description": "תם אהרון יוצא למסע דוקו-קומי כדי להבין וללבן את הסוגיות הנפיצות ביותר",
+    "channel_label": "KAN11",
+    "episode_number": 0,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/wjzj4vme/2023-3-27-imgid-96960_a.jpeg?share=images/logo/11.png",
+          "size": {
+            "width": 640,
+            "height": 360
+          }
+        }
+      ],
+      "poster": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/wjzj4vme/2023-3-27-imgid-96960_a.jpeg",
+          "size": {
+            "width": 640,
+            "height": 360
+          }
+        }
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/wjzj4vme/2023-3-27-imgid-96960_a.jpeg",
+          "size": {
+            "width": 640,
+            "height": 360
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "season_number": 1,
+    "editions": [
+      {
+        "label": "נפיץ עם תם אהרון",
+        "editionType": "full",
+        "streams": [
+          
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "150230",
+    "label": "טקס יום השואה הממלכתי מיד ושם 2023",
+    "description": "עצרת הפתיחה הממלכתית לציון יום הזיכרון לשואה ולגבורה מיד ושם בסימן שמונים שנה למרד גטו ורשה",
+    "short_description": "עצרת הפתיחה הממלכתית לציון יום הזיכרון לשואה ולגבורה מיד ושם",
+    "series": {
+      "type": "series",
+      "external_id": "1114",
+      "label": "כאן ספיישלים",
+      "description": "מבחר ספיישלים המשודרים בכאן 11: ממשדרים לחגים, תכניות לארכיון&nbsp;ותכני מקור מיוחדים",
+      "short_description": "תכניות ומשדרים מיוחדים ששודרו בכאן 11 בחגים ומועדים",
+      "channel_label": "KAN11",
+      "episode_number": 0,
+      "crew": [
+        
+      ],
+      "hidden": false,
+      "images": {
+        "still": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/zbok03zm/2019-7-11-imgid-16439_a.jpeg",
+            "size": {
+              "width": 640,
+              "height": 360
+            }
+          }
+        ],
+        "poster": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/xd1f3qhf/https-kanstaticazureedgenet-download-pictures-2021-9-29-imgid-16439_k.jpeg",
+            "size": {
+              "width": 239,
+              "height": 360
+            }
+          }
+        ],
+        "background": [
+          {
+            "url": "https://kanwebtest-migration.azurewebsites.net/media/zugetg3n/https-kanstaticazureedgenet-download-pictures-2019-7-11-imgid-16439_aa.jpeg",
+            "size": {
+              "width": 1920,
+              "height": 1080
+            }
+          }
+        ],
+        "backgroundPoster": [
+          
+        ],
+        "heroPortrait": [
+          
+        ],
+        "heroPoster": [
+          
+        ]
+      },
+      "genres": [
+        
+      ],
+      "season_number": 1,
+      "editions": [
+        {
+          "label": "כאן ספיישלים",
+          "editionType": "full",
+          "streams": [
+            
+          ]
+        }
+      ]
+    },
+    "channel_label": "KAN11",
+    "episode_number": 0,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/j1obh215/2023-4-17-imgid-98385_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/j1obh215/2023-4-17-imgid-98385_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 5375,
+    "season_number": 88,
+    "editions": [
+      {
+        "label": "טקס יום השואה הממלכתי מיד ושם 2023",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_anygwph5/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "147671",
+    "label": "צליל מכוון 2 | קובי אושרת",
+    "description": "אין תיאור בKLH",
+    "short_description": "אין תיאור בKLH",
+    "channel_label": "KAN11",
+    "episode_number": 0,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/iflfvyhu/2023-3-13-imgid-95842_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/iflfvyhu/2023-3-13-imgid-95842_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 1680,
+    "season_number": 2,
+    "editions": [
+      {
+        "label": "צליל מכוון 2 | קובי אושרת",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_6e9h0gji/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "episode",
+    "external_id": "147585",
+    "label": "צליל מכוון 2 | רבקה מיכאלי",
+    "description": "צליל מכוון 2 | רבקה מיכאלי",
+    "short_description": "צליל מכוון 2 | רבקה מיכאלי",
+    "channel_label": "KAN11",
+    "episode_number": 0,
+    "crew": [
+      
+    ],
+    "hidden": false,
+    "images": {
+      "still": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/nmjeicsy/2023-3-12-imgid-95750_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "poster": [
+        
+      ],
+      "background": [
+        {
+          "url": "https://kanwebtest-migration.azurewebsites.net/media/nmjeicsy/2023-3-12-imgid-95750_b.jpeg",
+          "size": {
+            "width": 1920,
+            "height": 800
+          }
+        }
+      ],
+      "backgroundPoster": [
+        
+      ],
+      "heroPortrait": [
+        
+      ],
+      "heroPoster": [
+        
+      ]
+    },
+    "genres": [
+      
+    ],
+    "duration": 1678,
+    "season_number": 2,
+    "editions": [
+      {
+        "label": "צליל מכוון 2 | רבקה מיכאלי",
+        "editionType": "full",
+        "streams": [
+          {
+            "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_4bfgrwip/format/applehttp/protocol/https/desiredFileName.m3u8",
+            "type": "hls",
+            "drm": "unencrypted"
+          }
+        ]
+      }
+    ]
+  }
+]
