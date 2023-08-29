@@ -11,8 +11,7 @@
         "tags": ["tag1", "tag2"],
         "clipIds": ["Q3_tQIoBLKQ7cMThaM8r", "sn_sQIoBLKQ7cMThxs5a"],
         "geoblock": {
-            "allow": ["DE", "ES", "AU"],
-            "deny": ["US", "GB"]
+            "allow": ["DE", "ES", "AU"]
         },
         "age_classification": {
             "types": [
@@ -29,7 +28,6 @@
         "deepLink": "https://www.mako.co.il/tv-vod",
         "series": {
             "geoblock": {
-                "allow": ["BR", "CA", "BY"],
                 "deny": ["CD", "CO"]
             },
             "assetLabel": "custom_label_series",
