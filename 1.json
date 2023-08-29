@@ -13,8 +13,8 @@
             "types": [
                 {
                     "rating": 18,
-                    "type": "NAME 2",
-                    "indicatorLabels": ["PG", "PG-13", "R", "NC-17"],
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
                     "description": "DESCRIPTION INSIDE MOVIE 2"
                 }
             ]
