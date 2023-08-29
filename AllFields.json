@@ -1,15 +1,18 @@
 [
     {
         "type": "episode",
-        "assetLabel": "custom_label_episode",
-        "external_id": "148682",
+        "assetLabel": "Short Label",
+        "external_id": "episode-external-id",
         "release_date": "2021-03-30",
         "year": 2021,
-        "label": "נפיץ עם תם אהרון | פיילוט",
-        "description": "כשלצדו נציגים של כל ה\"שבטים\" בחברה הישראלית, מבקש הקומיקאי תם אהרון ללבן את הסוגיות הטעונות והבוערות ביותר. והפעם, הדרת נשים מהמרחב הציבורי: כפייה דתית או חירות דמוקרטית? ואף מילה על \"סיפורה של שפחה\"!",
-        "short_description": "הדרת נשים מהמרחב הציבורי: כפייה דתית או חירות דמוקרטית?",
+        "label": "Label example",
+        "description": "A description of the episode",
+        "short_description": "A short description of the episode",
         "tags": ["tag1", "tag2"],
-        "clipIds": ["Q3_tQIoBLKQ7cMThaM8r", "sn_sQIoBLKQ7cMThxs5a"],
+        "clipIds": [
+            "id_of_clip_already_created_on_backstage",
+            "id_of_clip_already_created_on_backstage_2"
+        ],
         "geoblock": {
             "allow": ["DE", "ES", "AU"],
             "deny": []
@@ -37,18 +40,18 @@
         },
         "rating": 40,
         "isAdult": true,
-        "deepLink": "https://www.mako.co.il/tv-vod",
+        "deepLink": "deep link example",
         "series": {
             "geoblock": {
                 "allow": [],
                 "deny": ["CD", "CO"]
             },
-            "assetLabel": "custom_label_series",
-            "external_id": "2158",
-            "label": "נפיץ עם תם אהרון",
-            "clipIds": ["Q3_tQIoBLKQ7cMThaM8r", "sn_sQIoBLKQ7cMThxs5a"],
-            "description": "תם אהרון יוצא למסע דוקו-קומי כדי להבין וללבן את הסוגיות הבוערות, הקשות, מעוררות המחלוקת, ובקיצור - הכי נפיצות ביותר בישראל",
-            "short_description": "תם אהרון יוצא למסע דוקו-קומי כדי להבין וללבן את הסוגיות הנפיצות ביותר",
+            "assetLabel": "Short Label",
+            "external_id": "series-external-id",
+            "label": "Label series",
+            "clipIds": ["id_of_clip", "id_of_clip_2"],
+            "description": "A description of the series",
+            "short_description": "A short description of the series",
             "release_date": "2021-03-30",
             "year": 2023,
             "rating": 80,
@@ -64,7 +67,7 @@
                     "title": null
                 }
             ],
-            "deepLink": "https://www.mako.co.il/tv-vod2",
+            "deepLink": "deep link series example",
             "age_classification": {
                 "types": [
                     {
@@ -161,9 +164,23 @@
                 ]
             },
             "genres": ["Genres series", "Genres series 2"],
-            "tags": ["tag3", "tag4"]
+            "tags": ["tag3", "tag4"],
+            "editions": [
+                {
+                    "label": "Big Buck Bunny",
+                    "editionType": "trailer",
+                    "streams": [
+                        {
+                            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                            "type": "hls",
+                            "drm": "unencrypted"
+                        }
+                    ]
+                }
+            ]
         },
         "episode_number": 1,
+        "season_number": 1,
         "crew": [
             {
                 "label": "Label episode",
@@ -251,7 +268,6 @@
         },
         "genres": ["Genres episode", "Genres episode 2"],
         "duration": 2438,
-        "season_number": 1,
         "editions": [
             {
                 "label": "נפיץ עם תם אהרון | פיילוט",
@@ -268,50 +284,145 @@
     },
     {
         "type": "episode",
-        "external_id": "149015",
-        "label": "הבלתי חשובים 3 | פרק 6 - אילן רמון",
-        "description": "מ",
-        "short_description": "מ",
+        "assetLabel": "Short Label",
+        "external_id": "episode-external-id-2",
+        "release_date": "2021-03-30",
+        "year": 2021,
+        "label": "Label example 2",
+        "description": "A description of the episode 2",
+        "short_description": "A short description of the episode 2",
+        "tags": ["tag1", "tag2"],
+        "clipIds": [
+            "id_of_clip_already_created_on_backstage",
+            "id_of_clip_already_created_on_backstage_2"
+        ],
+        "geoblock": {
+            "allow": ["DE", "ES", "AU"],
+            "deny": []
+        },
+        "windows": [
+            {
+                "blocked": false,
+                "blockedMessage": null,
+                "countries": [],
+                "applications": [],
+                "endsAt": 1696841740,
+                "startsAt": 1675936540,
+                "title": null
+            }
+        ],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "rating": 40,
+        "isAdult": true,
+        "deepLink": "deep link example",
         "series": {
-            "external_id": "2158"
+            "external_id": "series-external-id"
         },
         "episode_number": 2,
-        "crew": [],
+        "season_number": 1,
+        "crew": [
+            {
+                "label": "Label episode",
+                "role": "Editor"
+            },
+            {
+                "label": "Label episode 2",
+                "role": "Producer"
+            }
+        ],
         "hidden": false,
         "images": {
             "still": [
                 {
-                    "url": "https://kanwebtest-migration.azurewebsites.net/media/tpybx2iw/2023-3-30-imgid-97162_b.png",
+                    "url": "https://placehold.co/1920x1080.jpg",
                     "size": {
-                        "width": 1915,
+                        "width": 1920,
                         "height": 800
                     }
                 }
             ],
-            "poster": [],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "square": [
+                {
+                    "url": "https://placehold.co/1200x1200.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1200
+                    }
+                }
+            ],
             "background": [
                 {
-                    "url": "https://kanwebtest-migration.azurewebsites.net/media/tpybx2iw/2023-3-30-imgid-97162_b.png",
+                    "url": "https://placehold.co/1920x1080.jpg",
                     "size": {
-                        "width": 1915,
+                        "width": 1920,
                         "height": 800
                     }
                 }
             ],
-            "backgroundPoster": [],
-            "heroPortrait": [],
-            "heroPoster": []
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ],
+            "heroPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "heroLandscape": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ]
         },
-        "genres": [],
-        "duration": 1894,
-        "season_number": 1,
+        "genres": ["Genres episode", "Genres episode 2"],
+        "duration": 2438,
         "editions": [
             {
-                "label": "הבלתי חשובים 3 | פרק 6 - אילן רמון",
+                "label": "Big Buck Bunny",
                 "editionType": "full",
                 "streams": [
                     {
-                        "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_qczss1lq/format/applehttp/protocol/https/desiredFileName.m3u8",
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
                         "type": "hls",
                         "drm": "unencrypted"
                     }
