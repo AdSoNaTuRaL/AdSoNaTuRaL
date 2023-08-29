@@ -21,6 +21,7 @@
         },
         "rating": 40,
         "isAdult": true,
+        "deepLink": "https://www.mako.co.il/tv-vod",
         "series": {
             "assetLabel": "custom_label_series",
             "external_id": "2158",
@@ -31,6 +32,7 @@
             "year": 2023,
             "rating": 80,
             "isAdult": true,
+            "deepLink": "https://www.mako.co.il/tv-vod2",
             "age_classification": {
                 "types": [
                     {
