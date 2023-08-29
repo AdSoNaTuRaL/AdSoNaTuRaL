@@ -89,34 +89,76 @@
             "images": {
                 "still": [
                     {
-                        "url": "https://kanwebtest-migration.azurewebsites.net/media/wjzj4vme/2023-3-27-imgid-96960_a.jpeg?share=images/logo/11.png",
+                        "url": "https://placehold.co/1920x1080.jpg",
                         "size": {
-                            "width": 640,
-                            "height": 360
+                            "width": 1920,
+                            "height": 800
                         }
                     }
                 ],
                 "poster": [
                     {
-                        "url": "https://kanwebtest-migration.azurewebsites.net/media/wjzj4vme/2023-3-27-imgid-96960_a.jpeg",
+                        "url": "https://placehold.co/1200x1800.jpg",
                         "size": {
-                            "width": 640,
-                            "height": 360
+                            "width": 1200,
+                            "height": 1800
+                        }
+                    }
+                ],
+                "square": [
+                    {
+                        "url": "https://placehold.co/1200x1200.jpg",
+                        "size": {
+                            "width": 1200,
+                            "height": 1200
                         }
                     }
                 ],
                 "background": [
                     {
-                        "url": "https://kanwebtest-migration.azurewebsites.net/media/wjzj4vme/2023-3-27-imgid-96960_a.jpeg",
+                        "url": "https://placehold.co/1920x1080.jpg",
                         "size": {
-                            "width": 640,
-                            "height": 360
+                            "width": 1920,
+                            "height": 800
                         }
                     }
                 ],
-                "backgroundPoster": [],
-                "heroPortrait": [],
-                "heroPoster": []
+                "backgroundPortrait": [
+                    {
+                        "url": "https://placehold.co/720x1080.jpg",
+                        "size": {
+                            "width": 720,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "highlight": [
+                    {
+                        "url": "https://placehold.co/3840x1280.jpg",
+                        "size": {
+                            "width": 3840,
+                            "height": 1280
+                        }
+                    }
+                ],
+                "heroPortrait": [
+                    {
+                        "url": "https://placehold.co/720x1080.jpg",
+                        "size": {
+                            "width": 720,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "heroLandscape": [
+                    {
+                        "url": "https://placehold.co/1920x1080.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 800
+                        }
+                    }
+                ]
             },
             "genres": ["Genres series", "Genres series 2"],
             "tags": ["tag3", "tag4"]
