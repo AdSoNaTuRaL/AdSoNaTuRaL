@@ -29,6 +29,16 @@
             "release_date": "2021-03-30",
             "year": 2023,
             "rating": 80,
+            "age_classification": {
+                "types": [
+                    {
+                        "rating": 18,
+                        "type": "NAME",
+                        "indicatorLabels": ["PG"],
+                        "description": "DESCRIPTION INSIDE THE SERIES"
+                    }
+                ]
+            },
             "crew": [
                 {
                     "label": "Label series",
@@ -86,16 +96,6 @@
                 "role": "Producer"
             }
         ],
-        "age_classification": {
-            "types": [
-                {
-                    "rating": 18,
-                    "type": "NAME",
-                    "indicatorLabels": ["PG"],
-                    "description": "DESCRIPTION INSIDE THE EPISODE"
-                }
-            ]
-        },
         "hidden": true,
         "images": {
             "still": [
