@@ -12,8 +12,9 @@
         "age_classification": {
             "types": [
                 {
+                    "rating": 18,
                     "type": "NAME 2",
-                    "indicatorLabels": ["PG"],
+                    "indicatorLabels": ["PG", "PG-13", "R", "NC-17"],
                     "description": "DESCRIPTION INSIDE MOVIE 2"
                 }
             ]
