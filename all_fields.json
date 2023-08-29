@@ -270,11 +270,11 @@
         "duration": 2438,
         "editions": [
             {
-                "label": "נפיץ עם תם אהרון | פיילוט",
+                "label": "Big Buck Bunny",
                 "editionType": "full",
                 "streams": [
                     {
-                        "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_w0sotyyx/format/applehttp/protocol/https/desiredFileName.m3u8",
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
                         "type": "hls",
                         "drm": "unencrypted"
                     }
