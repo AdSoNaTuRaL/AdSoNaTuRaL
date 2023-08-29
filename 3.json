@@ -170,9 +170,42 @@
                     }
                 }
             ],
-            "backgroundPortrait": [],
-            "heroPortrait": [],
-            "heroPoster": []
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ],
+            "heroPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "heroPoster": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ]
         },
         "genres": ["Genres episode", "Genres episode 2"],
         "duration": 2438,
