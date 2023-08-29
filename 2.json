@@ -16,13 +16,13 @@
         },
         "windows": [
             {
-                "startsAt": 1693558540,
-                "endsAt": 1693299339,
                 "blocked": true,
+                "blockedMessage": null,
+                "countries": ["DZ", "AO", "BW"],
                 "applications": ["default-app-id"],
-                "countries": ["DE", "ES", "AU"],
-                "title": "Window 1",
-                "blockedMessage": "Blocked message 1"
+                "endsAt": 1693558540,
+                "startsAt": 1693299339,
+                "title": null
             }
         ],
         "age_classification": {
@@ -55,8 +55,13 @@
             "isAdult": true,
             "windows": [
                 {
-                    "startsAt": 1693558540,
-                    "endsAt": 1693299339
+                    "blocked": false,
+                    "blockedMessage": null,
+                    "countries": [],
+                    "applications": [],
+                    "endsAt": 1693558540,
+                    "startsAt": 1693299339,
+                    "title": null
                 }
             ],
             "deepLink": "https://www.mako.co.il/tv-vod2",
@@ -80,7 +85,7 @@
                     "role": "Actor"
                 }
             ],
-            "hidden": true,
+            "hidden": false,
             "images": {
                 "still": [
                     {
