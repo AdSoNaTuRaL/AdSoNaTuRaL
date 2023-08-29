@@ -15,11 +15,11 @@
             "crew": [
                 {
                     "label": "Label series",
-                    "role": "Role series"
+                    "role": "Director"
                 },
                 {
                     "label": "Label series 2",
-                    "role": "Role series 2"
+                    "role": "Actor"
                 }
             ],
             "hidden": false,
@@ -61,11 +61,11 @@
         "crew": [
             {
                 "label": "Label episode",
-                "role": "Role episode"
+                "role": "Editor"
             },
             {
                 "label": "Label episode 2",
-                "role": "Role episode 2"
+                "role": "Producer"
             }
         ],
         "hidden": true,
