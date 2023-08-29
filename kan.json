@@ -1,0 +1,103 @@
+{
+    "type": "episode",
+    "external_id": "136311",
+    "label": "",
+    "description": "אולי הגיע הזמן שתתחילי לחשוב על דברים אחרים מלבד כדורגל?",
+    "short_description": "אולי הגיע הזמן שתתחילי לחשוב על דברים אחרים מלבד כדורגל?",
+    "series": {
+        "type": "series",
+        "external_id": "2018",
+        "label": "שלי הכובשת",
+        "description": "לשלי, נערה ממגדל העמק שחיה ונושמת כדורגל, יש בעיה – היא הגיעה לגיל בו, לפי החוקים, כבר אין לה אפשרות לשחק בקבוצות עם בנים ובמקום מגוריה אין קבוצת בנות להצטרף אליה. לכן, כשהיא שומעת על ליגה חדשה לילדים ונוער לקבוצות מעורבות בנים-בנות, היא מחליטה להקים את \"אריות העמק\" קבוצה בה היא המאמנת והכוכבת.  מכאן, שלי וחבריה החדשים לקבוצה יצאו למסע כנגד כל הסיכויים במטרה לזכות באליפות המדינה",
+        "short_description": "שלי יוצאת למסע להקמת קבוצת כדורגל ולהביאה לזכות באליפות המדינה",
+        "channel_label": "KANKIDS",
+        "episode_number": 0,
+        "crew": [],
+        "hidden": false,
+        "images": {
+            "still": [
+                {
+                    "url": "https://kanwebtest-migration.azurewebsites.net/media/rcqlmbnv/1920-1080.jpg?share=images/logo/11.png",
+                    "size": {
+                        "width": 1920,
+                        "height": 1080
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://kanwebtest-migration.azurewebsites.net/media/5wibirlv/https-kanstaticazureedgenet-download-pictures-2022-10-12-imgid-83190_k.jpeg",
+                    "size": {
+                        "width": 239,
+                        "height": 360
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://kanwebtest-migration.azurewebsites.net/media/bygaitcz/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1920x1080-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-18812bd7-58e1-4a44-b625-ea45a19b4eae.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 1080
+                    }
+                }
+            ],
+            "backgroundPoster": [],
+            "heroPortrait": [],
+            "heroPoster": []
+        },
+        "genres": [],
+        "season_number": 1,
+        "editions": [
+            {
+                "label": "שלי הכובשת",
+                "editionType": "full",
+                "streams": []
+            }
+        ]
+    },
+    "channel_label": "KANKIDS",
+    "episode_number": 0,
+    "crew": [],
+    "hidden": true,
+    "images": {
+        "still": [
+            {
+                "url": "https://kanwebtest-migration.azurewebsites.net/media/f4pfvvex/2022-10-18-imgid-83510_b.jpeg",
+                "size": {
+                    "width": 1920,
+                    "height": 800
+                }
+            }
+        ],
+        "poster": [],
+        "background": [
+            {
+                "url": "https://kanwebtest-migration.azurewebsites.net/media/f4pfvvex/2022-10-18-imgid-83510_b.jpeg",
+                "size": {
+                    "width": 1920,
+                    "height": 800
+                }
+            }
+        ],
+        "backgroundPoster": [],
+        "heroPortrait": [],
+        "heroPoster": []
+    },
+    "genres": [],
+    "duration": 61,
+    "season_number": 1,
+    "editions": [
+        {
+            "label": "שלי הכובשת | הצצה מתוך פרק 1 | מתחילים ב- 23.10 ⚽?",
+            "editionType": "full",
+            "streams": [
+                {
+                    "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_gy73b95g/format/applehttp/protocol/https/desiredFileName.m3u8",
+                    "type": "hls",
+                    "drm": "unencrypted"
+                }
+            ]
+        }
+    ]
+}
