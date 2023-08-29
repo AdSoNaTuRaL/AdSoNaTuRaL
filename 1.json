@@ -14,6 +14,17 @@
             "allow": ["DE", "ES", "AU"],
             "deny": []
         },
+        "windows": [
+            {
+                "startsAt": 1693558540,
+                "endsAt": 1693299339,
+                "blocked": true,
+                "applications": ["default-app-id"],
+                "countries": ["DE", "ES", "AU"],
+                "title": "Window 1",
+                "blockedMessage": "Blocked message 1"
+            }
+        ],
         "age_classification": {
             "types": [
                 {
@@ -42,6 +53,12 @@
             "year": 2023,
             "rating": 80,
             "isAdult": true,
+            "windows": [
+                {
+                    "startsAt": 1693558540,
+                    "endsAt": 1693299339
+                }
+            ],
             "deepLink": "https://www.mako.co.il/tv-vod2",
             "age_classification": {
                 "types": [
