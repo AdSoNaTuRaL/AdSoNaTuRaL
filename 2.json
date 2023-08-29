@@ -8,12 +8,6 @@
         "label": "נפיץ עם תם אהרון | פיילוט",
         "description": "כשלצדו נציגים של כל ה\"שבטים\" בחברה הישראלית, מבקש הקומיקאי תם אהרון ללבן את הסוגיות הטעונות והבוערות ביותר. והפעם, הדרת נשים מהמרחב הציבורי: כפייה דתית או חירות דמוקרטית? ואף מילה על \"סיפורה של שפחה\"!",
         "short_description": "הדרת נשים מהמרחב הציבורי: כפייה דתית או חירות דמוקרטית?",
-        "subscriptionTags": [
-            {
-                "label": "subscriptionTag1",
-                "subscriptionIds": []
-            }
-        ],
         "tags": ["tag1", "tag2"],
         "age_classification": {
             "types": [
@@ -26,6 +20,7 @@
             ]
         },
         "rating": 40,
+        "isAdult": true,
         "series": {
             "assetLabel": "custom_label_series",
             "external_id": "2158",
@@ -35,6 +30,7 @@
             "release_date": "2021-03-30",
             "year": 2023,
             "rating": 80,
+            "isAdult": true,
             "age_classification": {
                 "types": [
                     {
