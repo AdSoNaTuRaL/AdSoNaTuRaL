@@ -12,7 +12,16 @@
             "label": "נפיץ עם תם אהרון",
             "description": "תם אהרון יוצא למסע דוקו-קומי כדי להבין וללבן את הסוגיות הבוערות, הקשות, מעוררות המחלוקת, ובקיצור - הכי נפיצות ביותר בישראל",
             "short_description": "תם אהרון יוצא למסע דוקו-קומי כדי להבין וללבן את הסוגיות הנפיצות ביותר",
-            "crew": [],
+            "crew": [
+                {
+                    "label": "Label series",
+                    "role": "Role series",
+                },
+                {
+                    "label": "Label series 2",
+                    "role": "Role series 2",
+                }
+            ],
             "hidden": false,
             "images": {
                 "still": [
@@ -49,7 +58,16 @@
             "genres": []
         },
         "episode_number": 1,
-        "crew": [],
+        "crew": [
+            {
+                "label": "Label episode",
+                "role": "Role episode",
+            },
+            {
+                "label": "Label episode 2",
+                "role": "Role episode 2",
+            }
+        ],
         "hidden": true,
         "images": {
             "still": [
