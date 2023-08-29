@@ -10,7 +10,8 @@
         "short_description": "הדרת נשים מהמרחב הציבורי: כפייה דתית או חירות דמוקרטית?",
         "subscriptionTags": [
             {
-                "label": "subscriptionTag1"
+                "label": "subscriptionTag1",
+                "subscriptionIds": []
             }
         ],
         "tags": ["tag1", "tag2"],
