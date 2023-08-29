@@ -15,7 +15,7 @@
                     "rating": 18,
                     "type": "NAME",
                     "indicatorLabels": ["PG"],
-                    "description": "DESCRIPTION INSIDE MOVIE 2"
+                    "description": "DESCRIPTION INSIDE THE ASSET"
                 }
             ]
         },
@@ -86,6 +86,16 @@
                 "role": "Producer"
             }
         ],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE EPISODE"
+                }
+            ]
+        },
         "hidden": true,
         "images": {
             "still": [
