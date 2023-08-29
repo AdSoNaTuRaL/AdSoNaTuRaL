@@ -10,6 +10,10 @@
         "short_description": "הדרת נשים מהמרחב הציבורי: כפייה דתית או חירות דמוקרטית?",
         "tags": ["tag1", "tag2"],
         "clipIds": ["Q3_tQIoBLKQ7cMThaM8r", "sn_sQIoBLKQ7cMThxs5a"],
+        "geoblock": {
+            "allow": ["DE", "ES", "AU"],
+            "deny": ["US", "GB"]
+        },
         "age_classification": {
             "types": [
                 {
@@ -24,6 +28,10 @@
         "isAdult": true,
         "deepLink": "https://www.mako.co.il/tv-vod",
         "series": {
+            "geoblock": {
+                "allow": ["BR", "CA", "BY"],
+                "deny": ["CD", "CO"]
+            },
             "assetLabel": "custom_label_series",
             "external_id": "2158",
             "label": "נפיץ עם תם אהרון",
