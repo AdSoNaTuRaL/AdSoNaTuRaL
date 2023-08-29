@@ -136,6 +136,7 @@
         "images": {
             "still": [
                 {
+                    // Landscape cover
                     "url": "https://kanwebtest-migration.azurewebsites.net/media/aa2pjnfw/2023-3-26-imgid-96851_b.jpeg",
                     "size": {
                         "width": 1920,
@@ -143,9 +144,20 @@
                     }
                 }
             ],
-            "poster": [],
-            "background": [
+            "poster": [
                 {
+                    // Portrait cover
+                    "url": "https://github.com/AdSoNaTuRaL/AdSoNaTuRaL/blob/main/POSTE-SENDZIMIR-TORNAPUNTA-DE-200-M-1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "square": [], // Square cover
+            "backgroundPoster": [
+                {
+                    // Background
                     "url": "https://kanwebtest-migration.azurewebsites.net/media/aa2pjnfw/2023-3-26-imgid-96851_b.jpeg",
                     "size": {
                         "width": 1920,
@@ -153,7 +165,7 @@
                     }
                 }
             ],
-            "backgroundPoster": [],
+            "backgroundPortrait": [],
             "heroPortrait": [],
             "heroPoster": []
         },
