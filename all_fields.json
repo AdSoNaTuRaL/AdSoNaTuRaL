@@ -1,5 +1,5 @@
 [
-    "ignoreSchedule": true,
+    {"ignoreSchedule": true},
     {
         "type": "episode",
         "assetLabel": "Short Label",
