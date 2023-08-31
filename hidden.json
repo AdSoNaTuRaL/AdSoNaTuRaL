@@ -104,6 +104,7 @@
             "external_id": "channel-external-id",
             "description": "A description of the channel",
             "short_description": "A short description of the channel",
+            "hidden": true,
             "crew": [
                 {
                     "label": "Label episode",
@@ -225,20 +226,7 @@
                         }
                     }
                 ]
-            },
-            "editions": [
-                {
-                    "label": "Big Buck Bunny",
-                    "editionType": "full",
-                    "streams": [
-                        {
-                            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-                            "type": "hls",
-                            "drm": "unencrypted"
-                        }
-                    ]
-                }
-            ]
+            }
         }
     }
 ]
