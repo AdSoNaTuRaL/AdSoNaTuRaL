@@ -329,7 +329,7 @@
             }
         ],
         "channels": {
-            "external_id": "channel-external-id"
+            "label": "Channel 1"
         }
     }
 ]
