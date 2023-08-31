@@ -42,23 +42,23 @@
         "isAdult": true,
         "deepLink": "deep link example",
         "series": {
-            "external_id": "1234567",
             "geoblock": {
                 "allow": [],
                 "deny": ["CD", "CO"]
             },
             "assetLabel": "Short Label",
+            "external_id": "series-external-id",
             "label": "Label series",
             "clipIds": ["id_of_clip", "id_of_clip_2"],
             "description": "A description of the series",
             "short_description": "A short description of the series",
             "release_date": "2021-03-30",
-            "year": 2021,
+            "year": 2023,
             "rating": 80,
             "isAdult": true,
             "windows": [
                 {
-                    "blocked": false,
+                    "blocked": true,
                     "blockedMessage": null,
                     "countries": [],
                     "applications": ["default-app-id"],
