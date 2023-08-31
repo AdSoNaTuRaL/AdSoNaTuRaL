@@ -97,7 +97,7 @@
                 ]
             }
         ],
-        "channel": {
+        "channels": {
             "label": "Channel 1",
             "assetLabel": "Short Label",
             "number": "13",
