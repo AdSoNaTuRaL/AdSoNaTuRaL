@@ -53,12 +53,12 @@
             "description": "A description of the series",
             "short_description": "A short description of the series",
             "release_date": "2021-03-30",
-            "year": 2023,
+            "year": 2021,
             "rating": 80,
             "isAdult": true,
             "windows": [
                 {
-                    "blocked": true,
+                    "blocked": false,
                     "blockedMessage": null,
                     "countries": [],
                     "applications": ["default-app-id"],
