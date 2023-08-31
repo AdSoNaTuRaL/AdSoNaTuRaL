@@ -1,0 +1,207 @@
+[
+    {
+        "type": "broadcast",
+        "external_id": "broadcast-1",
+        "label": "Broadcast 1",
+        "assetLabel": "Short Label",
+        "description": "Broadcast 1 description",
+        "short_description": "Broadcast 1 short description",
+        "tags": ["tag1", "tag2"],
+        "crew": [
+            {
+                "label": "John Doe",
+                "role": "Editor"
+            },
+            {
+                "label": "Michael Smith",
+                "role": "Producer"
+            }
+        ],
+        "program": {
+            "type": "movie",
+            "id": "movie-1"
+        },
+        "startsAt": 1693548000,
+        "endsAt": 1693584000,
+        "genres": ["Comedy", "Drama"],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "isAdult": true,
+        "hidden": true,
+        "deepLink": "https://www.google.com",
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ]
+        },
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ],
+        "channels": {
+            "id": "LDECTIoB5lA0pUVdYF7U"
+        }
+    },
+    {
+        "type": "broadcast",
+        "external_id": "broadcast-2",
+        "label": "Broadcast 2",
+        "assetLabel": "Short Label",
+        "description": "Broadcast 2 description",
+        "short_description": "Broadcast 2 short description",
+        "tags": ["tag3", "tag4"],
+        "crew": [
+            {
+                "label": "John Doe 2",
+                "role": "Editor"
+            },
+            {
+                "label": "Michael Smith 2",
+                "role": "Producer"
+            }
+        ],
+        "program": {
+            "type": "episode",
+            "id": "episode-1",
+            "seriesId": "series-1"
+        },
+        "startsAt": 1693584000,
+        "endsAt": 1693593000,
+        "genres": ["Comedy", "Drama"],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "isAdult": true,
+        "hidden": true,
+        "deepLink": "https://www.google.com",
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ]
+        },
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ],
+        "channels": {
+            "label": "Adson Channel"
+        }
+    }
+]
