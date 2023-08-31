@@ -36,7 +36,7 @@
         },
         "isAdult": true,
         "hidden": true,
-        "deepLink": "deep link example",
+        "deepLink": "https://www.google.com",
         "images": {
             "still": [
                 {
