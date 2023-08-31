@@ -7,6 +7,7 @@
         "description": "Broadcast 1 description",
         "short_description": "Broadcast 1 short description",
         "channel_label": "Channel 1",
+        "tags": ["tag1", "tag2"],
         "crew": [
             {
                 "label": "John Doe",
@@ -34,6 +35,15 @@
         "hidden": true,
         "deepLink": "deep link example",
         "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
             "poster": [
                 {
                     "url": "https://placehold.co/1200x1800.jpg",
