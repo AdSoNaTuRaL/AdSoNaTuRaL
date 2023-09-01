@@ -334,5 +334,24 @@
         "series": { "id": "series-1" },
         "crew": [],
         "genres": []
+    },
+    {
+        "type": "episode",
+        "assetLabel": "Corrupti sed.",
+        "external_id": "4da33bc1-3607-351b-a456-50308ed90b8b",
+        "release_date": "2013-11-03",
+        "year": "2012",
+        "label": "Eius deserunt.",
+        "description": "Nemo corrupti voluptas voluptatem architecto sed quidem dolor dolores.",
+        "short_description": "Cum et cumque dignissimos nulla doloribus.",
+        "tags": ["consectetur", "quod", "provident"],
+        "rating": 6,
+        "isAdult": false,
+        "deepLink": "https://www.ondricka.com/iure-incidunt-neque-perspiciatis-aperiam-asperiores",
+        "episode_number": 74,
+        "season_number": 6,
+        "series": { "id": "series-1" },
+        "crew": [],
+        "genres": []
     }
 ]
