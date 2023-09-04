@@ -41,8 +41,7 @@
         "rating": 40,
         "isAdult": true,
         "deepLink": "deep link example",
-        "series": {
-            "type": "podcasts",
+        "podcast": {
             "geoblock": {
               "allow": [
                 
@@ -54,7 +53,7 @@
             },
             "assetLabel": "Short Label",
             "external_id": "podcast-external-id",
-            "label": "Label series",
+            "label": "Label podcast",
             "clipIds": [
               "id_of_clip",
               "id_of_clip_2"
