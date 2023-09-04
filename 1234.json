@@ -11,6 +11,8 @@
         "short_description": "A short description of the episode 3",
         "episode_number": 3,
         "season_number": 1,
+        "crew": [],
+        "genres": [],
         "tags": ["tag1", "tag2"],
         "clipIds": [
             "id_of_clip_already_created_on_backstage",
