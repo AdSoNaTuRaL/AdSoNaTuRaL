@@ -42,7 +42,7 @@
         "isAdult": true,
         "deepLink": "deep link example",
         "series": {
-            "type": "podcast",
+            "type": "podcasts",
             "geoblock": {
               "allow": [
                 
