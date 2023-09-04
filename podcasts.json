@@ -41,7 +41,7 @@
         "rating": 40,
         "isAdult": true,
         "deepLink": "deep link example",
-        "podcast": {
+        "podcasts": {
             "geoblock": {
               "allow": [
                 
