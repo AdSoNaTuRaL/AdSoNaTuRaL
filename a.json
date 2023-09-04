@@ -2,6 +2,7 @@
     {
         "type": "episode",
         "assetLabel": "Short Label",
+        "series_type": "podcast",
         "external_id": "episode-external-id-2",
         "release_date": "2021-03-30",
         "year": 2021,
@@ -43,21 +44,13 @@
         "deepLink": "deep link example",
         "podcasts": {
             "geoblock": {
-              "allow": [
-                
-              ],
-              "deny": [
-                "CD",
-                "CO"
-              ]
+                "allow": [],
+                "deny": ["CD", "CO"]
             },
             "assetLabel": "Short Label",
             "external_id": "podcast-external-id",
             "label": "Label podcast",
-            "clipIds": [
-              "id_of_clip",
-              "id_of_clip_2"
-            ],
+            "clipIds": ["id_of_clip", "id_of_clip_2"],
             "description": "A description of the podcast",
             "short_description": "A short description of the podcast",
             "release_date": "2021-03-30",
@@ -65,126 +58,114 @@
             "rating": 80,
             "isAdult": true,
             "windows": [
-              {
-                "blocked": true,
-                "blockedMessage": null,
-                "countries": [
-                  
-                ],
-                "applications": [
-                  "default-app-id"
-                ],
-                "endsAt": 1699610140,
-                "startsAt": 1696841740,
-                "title": null
-              }
+                {
+                    "blocked": true,
+                    "blockedMessage": null,
+                    "countries": [],
+                    "applications": ["default-app-id"],
+                    "endsAt": 1699610140,
+                    "startsAt": 1696841740,
+                    "title": null
+                }
             ],
             "age_classification": {
-              "types": [
-                {
-                  "rating": 18,
-                  "type": "NAME",
-                  "indicatorLabels": [
-                    "PG"
-                  ],
-                  "description": "DESCRIPTION INSIDE THE SERIES"
-                }
-              ]
+                "types": [
+                    {
+                        "rating": 18,
+                        "type": "NAME",
+                        "indicatorLabels": ["PG"],
+                        "description": "DESCRIPTION INSIDE THE SERIES"
+                    }
+                ]
             },
             "crew": [
-              {
-                "label": "Label series",
-                "role": "Director"
-              },
-              {
-                "label": "Label series 2",
-                "role": "Actor"
-              }
+                {
+                    "label": "Label series",
+                    "role": "Director"
+                },
+                {
+                    "label": "Label series 2",
+                    "role": "Actor"
+                }
             ],
             "hidden": false,
             "images": {
-              "still": [
-                {
-                  "url": "https://placehold.co/1920x1080.jpg",
-                  "size": {
-                    "width": 1920,
-                    "height": 800
-                  }
-                }
-              ],
-              "poster": [
-                {
-                  "url": "https://placehold.co/1200x1800.jpg",
-                  "size": {
-                    "width": 1200,
-                    "height": 1800
-                  }
-                }
-              ],
-              "square": [
-                {
-                  "url": "https://placehold.co/1200x1200.jpg",
-                  "size": {
-                    "width": 1200,
-                    "height": 1200
-                  }
-                }
-              ],
-              "background": [
-                {
-                  "url": "https://placehold.co/1920x1080.jpg",
-                  "size": {
-                    "width": 1920,
-                    "height": 800
-                  }
-                }
-              ],
-              "backgroundPortrait": [
-                {
-                  "url": "https://placehold.co/720x1080.jpg",
-                  "size": {
-                    "width": 720,
-                    "height": 1080
-                  }
-                }
-              ],
-              "highlight": [
-                {
-                  "url": "https://placehold.co/3840x1280.jpg",
-                  "size": {
-                    "width": 3840,
-                    "height": 1280
-                  }
-                }
-              ],
-              "heroPortrait": [
-                {
-                  "url": "https://placehold.co/720x1080.jpg",
-                  "size": {
-                    "width": 720,
-                    "height": 1080
-                  }
-                }
-              ],
-              "heroLandscape": [
-                {
-                  "url": "https://placehold.co/1920x1080.jpg",
-                  "size": {
-                    "width": 1920,
-                    "height": 800
-                  }
-                }
-              ]
+                "still": [
+                    {
+                        "url": "https://placehold.co/1920x1080.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 800
+                        }
+                    }
+                ],
+                "poster": [
+                    {
+                        "url": "https://placehold.co/1200x1800.jpg",
+                        "size": {
+                            "width": 1200,
+                            "height": 1800
+                        }
+                    }
+                ],
+                "square": [
+                    {
+                        "url": "https://placehold.co/1200x1200.jpg",
+                        "size": {
+                            "width": 1200,
+                            "height": 1200
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "url": "https://placehold.co/1920x1080.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 800
+                        }
+                    }
+                ],
+                "backgroundPortrait": [
+                    {
+                        "url": "https://placehold.co/720x1080.jpg",
+                        "size": {
+                            "width": 720,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "highlight": [
+                    {
+                        "url": "https://placehold.co/3840x1280.jpg",
+                        "size": {
+                            "width": 3840,
+                            "height": 1280
+                        }
+                    }
+                ],
+                "heroPortrait": [
+                    {
+                        "url": "https://placehold.co/720x1080.jpg",
+                        "size": {
+                            "width": 720,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "heroLandscape": [
+                    {
+                        "url": "https://placehold.co/1920x1080.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 800
+                        }
+                    }
+                ]
             },
-            "genres": [
-              "Genres podcast",
-              "Genres podcast 2"
-            ],
-            "tags": [
-              "tag3",
-              "tag4"
-            ]
-          },
+            "genres": ["Genres podcast", "Genres podcast 2"],
+            "tags": ["tag3", "tag4"]
+        },
         "episode_number": 2,
         "season_number": 1,
         "crew": [
