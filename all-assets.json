@@ -1,0 +1,2096 @@
+[
+    {
+        "type": "episode",
+        "assetLabel": "Short Label",
+        "series_type": "podcast",
+        "external_id": "episode-external-id-2",
+        "release_date": "2021-03-30",
+        "year": 2021,
+        "label": "Episode podcast example 2",
+        "description": "A description of the episode 2",
+        "short_description": "A short description of the episode 2",
+        "tags": ["tag1", "tag2"],
+        "clipIds": [
+            "3e40f740-4bc6-11ee-a7ee-b11a784c5efa"
+        ],
+        "geoblock": {
+            "allow": ["DE", "ES", "AU"],
+            "deny": []
+        },
+        "windows": [
+            {
+                "blocked": false,
+                "blockedMessage": null,
+                "countries": [],
+                "applications": [],
+                "endsAt": 1696841740,
+                "startsAt": 1675936540,
+                "title": null
+            }
+        ],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "rating": 40,
+        "isAdult": true,
+        "deepLink": "deep link example",
+        "podcasts": {
+            "geoblock": {
+                "allow": [],
+                "deny": ["CD", "CO"]
+            },
+            "assetLabel": "Short Label",
+            "external_id": "podcast-external-id",
+            "label": "Label podcast",
+            "clipIds": ["3e40f740-4bc6-11ee-a7ee-b11a784c5efa"],
+            "description": "A description of the podcast",
+            "short_description": "A short description of the podcast",
+            "release_date": "2021-03-30",
+            "year": 2023,
+            "rating": 80,
+            "isAdult": true,
+            "windows": [
+                {
+                    "blocked": true,
+                    "blockedMessage": null,
+                    "countries": [],
+                    "applications": ["default-app-id"],
+                    "endsAt": 1699610140,
+                    "startsAt": 1696841740,
+                    "title": null
+                }
+            ],
+            "age_classification": {
+                "types": [
+                    {
+                        "rating": 18,
+                        "type": "NAME",
+                        "indicatorLabels": ["PG"],
+                        "description": "DESCRIPTION INSIDE THE SERIES"
+                    }
+                ]
+            },
+            "crew": [
+                {
+                    "label": "Label podcast",
+                    "role": "Director"
+                },
+                {
+                    "label": "Label podcast 2",
+                    "role": "Actor"
+                }
+            ],
+            "hidden": false,
+            "images": {
+                "still": [
+                    {
+                        "url": "https://placehold.co/1920x1080.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 800
+                        }
+                    }
+                ],
+                "poster": [
+                    {
+                        "url": "https://placehold.co/1200x1800.jpg",
+                        "size": {
+                            "width": 1200,
+                            "height": 1800
+                        }
+                    }
+                ],
+                "square": [
+                    {
+                        "url": "https://placehold.co/1200x1200.jpg",
+                        "size": {
+                            "width": 1200,
+                            "height": 1200
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "url": "https://placehold.co/1920x1080.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 800
+                        }
+                    }
+                ],
+                "backgroundPortrait": [
+                    {
+                        "url": "https://placehold.co/720x1080.jpg",
+                        "size": {
+                            "width": 720,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "highlight": [
+                    {
+                        "url": "https://placehold.co/3840x1280.jpg",
+                        "size": {
+                            "width": 3840,
+                            "height": 1280
+                        }
+                    }
+                ],
+                "heroPortrait": [
+                    {
+                        "url": "https://placehold.co/720x1080.jpg",
+                        "size": {
+                            "width": 720,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "heroLandscape": [
+                    {
+                        "url": "https://placehold.co/1920x1080.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 800
+                        }
+                    }
+                ]
+            },
+            "genres": ["Genres podcast", "Genres podcast 2"],
+            "tags": ["tag3", "tag4"]
+        },
+        "episode_number": 2,
+        "season_number": 1,
+        "crew": [
+            {
+                "label": "Label episode",
+                "role": "Editor"
+            },
+            {
+                "label": "Label episode 2",
+                "role": "Producer"
+            }
+        ],
+        "hidden": false,
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "square": [
+                {
+                    "url": "https://placehold.co/1200x1200.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1200
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ],
+            "heroPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "heroLandscape": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ]
+        },
+        "genres": ["Genres episode", "Genres episode 2"],
+        "duration": 2438,
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "episode",
+        "assetLabel": "Short Label",
+        "series_type": "podcast",
+        "external_id": "episode-external-id-3",
+        "release_date": "2021-03-30",
+        "year": 2021,
+        "label": "Label example 3",
+        "description": "A description of the episode 3",
+        "short_description": "A short description of the episode 3",
+        "episode_number": 3,
+        "season_number": 1,
+        "crew": [],
+        "genres": [],
+        "tags": ["tag11", "tag21"],
+        "clipIds": [
+            "3e40f740-4bc6-11ee-a7ee-b11a784c5efa"
+        ],
+        "geoblock": {
+            "allow": ["DE", "ES", "AU"],
+            "deny": []
+        },
+        "windows": [
+            {
+                "blocked": false,
+                "blockedMessage": null,
+                "countries": [],
+                "applications": [],
+                "endsAt": 1696841740,
+                "startsAt": 1675936540,
+                "title": null
+            }
+        ],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "rating": 40,
+        "isAdult": true,
+        "deepLink": "deep link example",
+        "podcasts": {
+            "id": "XTSkZIoBUrWKnxiSegD_"
+        }
+    },
+    {
+        "type": "episode",
+        "assetLabel": "Short Label",
+        "series_type": "podcast",
+        "external_id": "episode-external-id-4",
+        "release_date": "2021-03-30",
+        "year": 2021,
+        "label": "Label example 4",
+        "description": "A description of the episode 4",
+        "short_description": "A short description of the episode 4",
+        "tags": ["asdfa", "djghjkfh"],
+        "clipIds": [
+            "3e40f740-4bc6-11ee-a7ee-b11a784c5efa"
+        ],
+        "geoblock": {
+            "allow": ["DE", "ES", "AU"],
+            "deny": []
+        },
+        "windows": [
+            {
+                "blocked": false,
+                "blockedMessage": null,
+                "countries": [],
+                "applications": [],
+                "endsAt": 1696841740,
+                "startsAt": 1675936540,
+                "title": null
+            }
+        ],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "rating": 40,
+        "isAdult": true,
+        "deepLink": "deep link example",
+        "podcast_label": "Podcast label Example",
+        "episode_number": 2,
+        "season_number": 1,
+        "crew": [
+            {
+                "label": "Label episode",
+                "role": "Editor"
+            },
+            {
+                "label": "Label episode 2",
+                "role": "Producer"
+            }
+        ],
+        "hidden": false,
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "square": [
+                {
+                    "url": "https://placehold.co/1200x1200.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1200
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ],
+            "heroPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "heroLandscape": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ]
+        },
+        "genres": ["Genres episode", "Genres episode 2"],
+        "duration": 2438,
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "broadcast",
+        "external_id": "broadcast-1",
+        "label": "Broadcast 1",
+        "assetLabel": "Short Label",
+        "description": "Broadcast 1 description",
+        "short_description": "Broadcast 1 short description",
+        "channel_label": "Channel 1",
+        "tags": ["broad1", "broad2"],
+        "crew": [
+            {
+                "label": "John Doe",
+                "role": "Editor"
+            },
+            {
+                "label": "Michael Smith",
+                "role": "Producer"
+            }
+        ],
+        "program": {
+            "type": "movie",
+            "id": "movie-1"
+        },
+        "startsAt": 1693605600,
+        "endsAt": 1693778400,
+        "genres": ["Comedy", "Drama"],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "isAdult": true,
+        "hidden": true,
+        "deepLink": "deep link example",
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ]
+        },
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "broadcast",
+        "external_id": "broadcast-1",
+        "label": "Broadcast 1",
+        "assetLabel": "Short Label",
+        "description": "Broadcast 1 description",
+        "short_description": "Broadcast 1 short description",
+        "tags": ["tag1", "tag2"],
+        "crew": [
+            {
+                "label": "John Doe",
+                "role": "Editor"
+            },
+            {
+                "label": "Michael Smith",
+                "role": "Producer"
+            }
+        ],
+        "program": {
+            "type": "movie",
+            "id": "movie-1"
+        },
+        "startsAt": 1693548000,
+        "endsAt": 1693584000,
+        "genres": ["Comedy", "Drama"],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "isAdult": true,
+        "hidden": true,
+        "deepLink": "https://www.google.com",
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ]
+        },
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ],
+        "channels": {
+            "id": "2jSmZIoBUrWKnxiSwgC6"
+        }
+    },
+    {
+        "type": "broadcast",
+        "external_id": "broadcast-2",
+        "label": "Broadcast 2",
+        "assetLabel": "Short Label",
+        "description": "Broadcast 2 description",
+        "short_description": "Broadcast 2 short description",
+        "tags": ["tag3", "tag4"],
+        "crew": [
+            {
+                "label": "John Doe 2",
+                "role": "Editor"
+            },
+            {
+                "label": "Michael Smith 2",
+                "role": "Producer"
+            }
+        ],
+        "program": {
+            "type": "episode",
+            "id": "episode-1",
+            "seriesId": "series-1"
+        },
+        "startsAt": 1693584000,
+        "endsAt": 1693593000,
+        "genres": ["Comedy", "Drama"],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "isAdult": true,
+        "hidden": true,
+        "deepLink": "https://www.google.com",
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ]
+        },
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ],
+        "channels": {
+            "label": "Channel test"
+        }
+    },
+    {
+        "type": "broadcast",
+        "external_id": "broadcast-1",
+        "label": "Broadcast 1",
+        "assetLabel": "Short Label",
+        "description": "Broadcast 1 description",
+        "short_description": "Broadcast 1 short description",
+        "tags": ["tag1", "tag2"],
+        "crew": [
+            {
+                "label": "John Doe",
+                "role": "Editor"
+            },
+            {
+                "label": "Michael Smith",
+                "role": "Producer"
+            }
+        ],
+        "program": {
+            "type": "movie",
+            "id": "movie-1"
+        },
+        "startsAt": 1693548000,
+        "endsAt": 1693584000,
+        "genres": ["Comedy", "Drama"],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "isAdult": true,
+        "hidden": true,
+        "deepLink": "https://www.google.com",
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ]
+        },
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ],
+        "channels": {
+            "label": "Channel 7",
+            "assetLabel": "Short Label",
+            "number": "13",
+            "external_id": "channel7-external-id",
+            "description": "A description of the channel",
+            "short_description": "A short description of the channel",
+            "hidden": true,
+            "crew": [
+                {
+                    "label": "Label episode",
+                    "role": "Editor"
+                },
+                {
+                    "label": "Label episode 2",
+                    "role": "Producer"
+                }
+            ],
+            "genres": ["Genres Channel", "Genres Channel 2"],
+            "tags": ["tag1", "tag2"],
+            "geoblock": {
+                "allow": ["DE", "ES", "AU"],
+                "deny": []
+            },
+            "windows": [
+                {
+                    "blocked": false,
+                    "blockedMessage": null,
+                    "countries": [],
+                    "applications": [],
+                    "endsAt": 1696841740,
+                    "startsAt": 1675936540,
+                    "title": null
+                }
+            ],
+            "age_classification": {
+                "types": [
+                    {
+                        "rating": 18,
+                        "type": "NAME",
+                        "indicatorLabels": ["PG"],
+                        "description": "DESCRIPTION INSIDE THE ASSET"
+                    }
+                ]
+            },
+            "isAdult": true,
+            "deepLink": "deep link example",
+            "images": {
+                "logo": [
+                    {
+                        "url": "https://placehold.co/1024x1024.jpg",
+                        "size": {
+                            "width": 1024,
+                            "height": 1024
+                        }
+                    }
+                ],
+                "still": [
+                    {
+                        "url": "https://placehold.co/1920x1080.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 800
+                        }
+                    }
+                ],
+                "poster": [
+                    {
+                        "url": "https://placehold.co/1200x1800.jpg",
+                        "size": {
+                            "width": 1200,
+                            "height": 1800
+                        }
+                    }
+                ],
+                "square": [
+                    {
+                        "url": "https://placehold.co/1200x1200.jpg",
+                        "size": {
+                            "width": 1200,
+                            "height": 1200
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "url": "https://placehold.co/1920x1080.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 800
+                        }
+                    }
+                ],
+                "backgroundPortrait": [
+                    {
+                        "url": "https://placehold.co/720x1080.jpg",
+                        "size": {
+                            "width": 720,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "highlight": [
+                    {
+                        "url": "https://placehold.co/3840x1280.jpg",
+                        "size": {
+                            "width": 3840,
+                            "height": 1280
+                        }
+                    }
+                ],
+                "heroPortrait": [
+                    {
+                        "url": "https://placehold.co/720x1080.jpg",
+                        "size": {
+                            "width": 720,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "heroLandscape": [
+                    {
+                        "url": "https://placehold.co/1920x1080.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 800
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "type": "broadcast",
+        "external_id": "broadcast-2",
+        "label": "Broadcast 2",
+        "assetLabel": "Short Label",
+        "description": "Broadcast 2 description",
+        "short_description": "Broadcast 2 short description",
+        "tags": ["tag3", "tag4"],
+        "crew": [
+            {
+                "label": "John Doe 2",
+                "role": "Editor"
+            },
+            {
+                "label": "Michael Smith 2",
+                "role": "Producer"
+            }
+        ],
+        "program": {
+            "type": "episode",
+            "id": "episode-1",
+            "seriesId": "series-1"
+        },
+        "startsAt": 1693584000,
+        "endsAt": 1693593000,
+        "genres": ["Comedy", "Drama"],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "isAdult": true,
+        "hidden": true,
+        "deepLink": "https://www.google.com",
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ]
+        },
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ],
+        "channels": {
+            "external_id": "channel-external-id"
+        }
+    },
+    {
+        "type": "episode",
+        "assetLabel": "Short Label",
+        "external_id": "episode-external-id",
+        "release_date": "2021-03-30",
+        "year": 2021,
+        "label": "Label example",
+        "description": "A description of the episode",
+        "short_description": "A short description of the episode",
+        "tags": ["tag1", "tag2"],
+        "clipIds": [
+            "id_of_clip_already_created_on_backstage",
+            "id_of_clip_already_created_on_backstage_2"
+        ],
+        "geoblock": {
+            "allow": ["DE", "ES", "AU"],
+            "deny": []
+        },
+        "windows": [
+            {
+                "blocked": false,
+                "blockedMessage": null,
+                "countries": [],
+                "applications": [],
+                "endsAt": 1696841740,
+                "startsAt": 1675936540,
+                "title": null
+            }
+        ],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "rating": 40,
+        "isAdult": true,
+        "deepLink": "deep link example",
+        "series_label": "Label series",
+        "episode_number": 1,
+        "season_number": 1,
+        "crew": [
+            {
+                "label": "Label episode",
+                "role": "Editor"
+            },
+            {
+                "label": "Label episode 2",
+                "role": "Producer"
+            }
+        ],
+        "hidden": false,
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "square": [
+                {
+                    "url": "https://placehold.co/1200x1200.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1200
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ],
+            "heroPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "heroLandscape": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ]
+        },
+        "genres": ["Genres episode", "Genres episode 2"],
+        "duration": 2438,
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "episode",
+        "assetLabel": "Short Label",
+        "external_id": "episode-external-id",
+        "release_date": "2021-03-30",
+        "year": 2021,
+        "label": "Label example",
+        "description": "A description of the episode",
+        "short_description": "A short description of the episode",
+        "tags": ["tag1", "tag2"],
+        "clipIds": [
+            "id_of_clip_already_created_on_backstage",
+            "id_of_clip_already_created_on_backstage_2"
+        ],
+        "geoblock": {
+            "allow": ["DE", "ES", "AU"],
+            "deny": []
+        },
+        "windows": [
+            {
+                "blocked": false,
+                "blockedMessage": null,
+                "countries": [],
+                "applications": [],
+                "endsAt": 1696841740,
+                "startsAt": 1675936540,
+                "title": null
+            }
+        ],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "rating": 40,
+        "isAdult": true,
+        "deepLink": "deep link example",
+        "series": {
+            "geoblock": {
+                "allow": [],
+                "deny": ["CD", "CO"]
+            },
+            "assetLabel": "Short Label",
+            "external_id": "series-external-id",
+            "label": "Label series",
+            "clipIds": ["id_of_clip", "id_of_clip_2"],
+            "description": "A description of the series",
+            "short_description": "A short description of the series",
+            "release_date": "2021-03-30",
+            "year": 2023,
+            "rating": 80,
+            "isAdult": true,
+            "windows": [
+                {
+                    "blocked": true,
+                    "blockedMessage": null,
+                    "countries": [],
+                    "applications": ["default-app-id"],
+                    "endsAt": 1699610140,
+                    "startsAt": 1696841740,
+                    "title": null
+                }
+            ],
+            "deepLink": "deep link series example",
+            "age_classification": {
+                "types": [
+                    {
+                        "rating": 18,
+                        "type": "NAME",
+                        "indicatorLabels": ["PG"],
+                        "description": "DESCRIPTION INSIDE THE SERIES"
+                    }
+                ]
+            },
+            "crew": [
+                {
+                    "label": "Label series",
+                    "role": "Director"
+                },
+                {
+                    "label": "Label series 2",
+                    "role": "Actor"
+                }
+            ],
+            "hidden": false,
+            "images": {
+                "still": [
+                    {
+                        "url": "https://placehold.co/1920x1080.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 800
+                        }
+                    }
+                ],
+                "poster": [
+                    {
+                        "url": "https://placehold.co/1200x1800.jpg",
+                        "size": {
+                            "width": 1200,
+                            "height": 1800
+                        }
+                    }
+                ],
+                "square": [
+                    {
+                        "url": "https://placehold.co/1200x1200.jpg",
+                        "size": {
+                            "width": 1200,
+                            "height": 1200
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "url": "https://placehold.co/1920x1080.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 800
+                        }
+                    }
+                ],
+                "backgroundPortrait": [
+                    {
+                        "url": "https://placehold.co/720x1080.jpg",
+                        "size": {
+                            "width": 720,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "highlight": [
+                    {
+                        "url": "https://placehold.co/3840x1280.jpg",
+                        "size": {
+                            "width": 3840,
+                            "height": 1280
+                        }
+                    }
+                ],
+                "heroPortrait": [
+                    {
+                        "url": "https://placehold.co/720x1080.jpg",
+                        "size": {
+                            "width": 720,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "heroLandscape": [
+                    {
+                        "url": "https://placehold.co/1920x1080.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 800
+                        }
+                    }
+                ]
+            },
+            "genres": ["Genres series", "Genres series 2"],
+            "tags": ["tag3", "tag4"]
+        },
+        "episode_number": 1,
+        "season_number": 1,
+        "crew": [
+            {
+                "label": "Label episode",
+                "role": "Editor"
+            },
+            {
+                "label": "Label episode 2",
+                "role": "Producer"
+            }
+        ],
+        "hidden": false,
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "square": [
+                {
+                    "url": "https://placehold.co/1200x1200.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1200
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ],
+            "heroPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "heroLandscape": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ]
+        },
+        "genres": ["Genres episode", "Genres episode 2"],
+        "duration": 2438,
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "episode",
+        "assetLabel": "Short Label",
+        "external_id": "episode-external-id-2",
+        "release_date": "2021-03-30",
+        "year": 2021,
+        "label": "Label example 2",
+        "description": "A description of the episode 2",
+        "short_description": "A short description of the episode 2",
+        "tags": ["tag1", "tag2"],
+        "clipIds": [
+            "id_of_clip_already_created_on_backstage",
+            "id_of_clip_already_created_on_backstage_2"
+        ],
+        "geoblock": {
+            "allow": ["DE", "ES", "AU"],
+            "deny": []
+        },
+        "windows": [
+            {
+                "blocked": false,
+                "blockedMessage": null,
+                "countries": [],
+                "applications": [],
+                "endsAt": 1696841740,
+                "startsAt": 1675936540,
+                "title": null
+            }
+        ],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "rating": 40,
+        "isAdult": true,
+        "deepLink": "deep link example",
+        "series": {
+            "label": "Label series"
+        },
+        "episode_number": 2,
+        "season_number": 1,
+        "crew": [
+            {
+                "label": "Label episode",
+                "role": "Editor"
+            },
+            {
+                "label": "Label episode 2",
+                "role": "Producer"
+            }
+        ],
+        "hidden": false,
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "square": [
+                {
+                    "url": "https://placehold.co/1200x1200.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1200
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ],
+            "heroPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "heroLandscape": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ]
+        },
+        "genres": ["Genres episode", "Genres episode 2"],
+        "duration": 2438,
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "movie",
+        "assetLabel": "Short Label",
+        "external_id": "movie-external-id",
+        "release_date": "2021-03-30",
+        "year": 2021,
+        "label": "Label example",
+        "description": "A description of the movie  ",
+        "short_description": "A short description of the movie  ",
+        "tags": ["movie-tag-1", "movie-tag-2"],
+        "clipIds": [
+            "id_of_clip_already_created_on_backstage",
+            "id_of_clip_already_created_on_backstage_2"
+        ],
+        "geoblock": {
+            "allow": ["DE", "ES", "AU"],
+            "deny": []
+        },
+        "windows": [
+            {
+                "blocked": false,
+                "blockedMessage": null,
+                "countries": [],
+                "applications": [],
+                "endsAt": 1696841740,
+                "startsAt": 1675936540,
+                "title": null
+            }
+        ],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "rating": 40,
+        "isAdult": true,
+        "deepLink": "https://www.google.com",
+        "crew": [
+            {
+                "label": "John Doe",
+                "role": "Editor"
+            },
+            {
+                "label": "John Richard",
+                "role": "Producer"
+            }
+        ],
+        "hidden": false,
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "square": [
+                {
+                    "url": "https://placehold.co/1200x1200.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1200
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ],
+            "heroPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "heroLandscape": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ]
+        },
+        "genres": ["Action", "Drama"],
+        "duration": 4850,
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "clip",
+        "assetLabel": "Short Label",
+        "external_id": "clip-external-id",
+        "release_date": "2021-03-30",
+        "year": 2021,
+        "label": "Clip example",
+        "description": "A description of the clip",
+        "short_description": "A short description of the clip",
+        "tags": ["clip-tag-1", "clip-tag-2"],
+        "geoblock": {
+            "allow": ["DE", "ES", "AU"],
+            "deny": []
+        },
+        "windows": [
+            {
+                "blocked": false,
+                "blockedMessage": null,
+                "countries": [],
+                "applications": [],
+                "endsAt": 1696841740,
+                "startsAt": 1675936540,
+                "title": null
+            }
+        ],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "rating": 40,
+        "isAdult": true,
+        "deepLink": "https://www.example.com",
+        "crew": [
+            {
+                "label": "John Doe",
+                "role": "Editor"
+            },
+            {
+                "label": "John Richard",
+                "role": "Producer"
+            }
+        ],
+        "hidden": false,
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "square": [
+                {
+                    "url": "https://placehold.co/1200x1200.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1200
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ],
+            "heroPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "heroLandscape": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ]
+        },
+        "genres": ["Action", "Drama"],
+        "duration": 4850,
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "live_event",
+        "assetLabel": "Short Label",
+        "external_id": "live-event-external-id",
+        "release_date": "2021-03-30",
+        "year": 2021,
+        "label": "Live Event example",
+        "clipIds": [
+            "id_of_clip_already_created_on_backstage",
+            "id_of_clip_already_created_on_backstage_2"
+        ],
+        "startsAt": 1675936540,
+        "endsAt": 1696841740,
+        "description": "A description of the live event",
+        "short_description": "A short description of the live event",
+        "tags": ["live-tag-1", "live-tag-2"],
+        "geoblock": {
+            "allow": ["DE", "ES", "AU"],
+            "deny": []
+        },
+        "windows": [
+            {
+                "blocked": false,
+                "blockedMessage": null,
+                "countries": [],
+                "applications": [],
+                "endsAt": 1696841740,
+                "startsAt": 1675936540,
+                "title": null
+            }
+        ],
+        "age_classification": {
+            "types": [
+                {
+                    "rating": 18,
+                    "type": "NAME",
+                    "indicatorLabels": ["PG"],
+                    "description": "DESCRIPTION INSIDE THE ASSET"
+                }
+            ]
+        },
+        "rating": 40,
+        "isAdult": true,
+        "deepLink": "https://www.24i.com",
+        "crew": [
+            {
+                "label": "John Doe",
+                "role": "Editor"
+            },
+            {
+                "label": "John Richard",
+                "role": "Producer"
+            }
+        ],
+        "hidden": false,
+        "images": {
+            "still": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://placehold.co/1200x1800.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1800
+                    }
+                }
+            ],
+            "square": [
+                {
+                    "url": "https://placehold.co/1200x1200.jpg",
+                    "size": {
+                        "width": 1200,
+                        "height": 1200
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ],
+            "backgroundPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://placehold.co/3840x1280.jpg",
+                    "size": {
+                        "width": 3840,
+                        "height": 1280
+                    }
+                }
+            ],
+            "heroPortrait": [
+                {
+                    "url": "https://placehold.co/720x1080.jpg",
+                    "size": {
+                        "width": 720,
+                        "height": 1080
+                    }
+                }
+            ],
+            "heroLandscape": [
+                {
+                    "url": "https://placehold.co/1920x1080.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 800
+                    }
+                }
+            ]
+        },
+        "genres": ["Action", "Drama"],
+        "duration": 4850,
+        "editions": [
+            {
+                "label": "Big Buck Bunny",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ]
+    }
+]
