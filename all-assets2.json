@@ -502,7 +502,6 @@
         },
         "isAdult": true,
         "hidden": true,
-        "deepLink": "deep link example",
         "images": {
             "still": [
                 {
@@ -549,29 +548,16 @@
                     }
                 }
             ]
-        },
-        "editions": [
-            {
-                "label": "Big Buck Bunny",
-                "editionType": "full",
-                "streams": [
-                    {
-                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-                        "type": "hls",
-                        "drm": "unencrypted"
-                    }
-                ]
-            }
-        ]
+        }
     },
     {
         "type": "broadcast",
-        "external_id": "broadcast-1",
-        "label": "Broadcast 1",
+        "external_id": "broadcast-11",
+        "label": "Broadcast 11",
         "assetLabel": "Short Label",
-        "description": "Broadcast 1 description",
-        "short_description": "Broadcast 1 short description",
-        "tags": ["tag1", "tag2"],
+        "description": "Broadcast 11 description",
+        "short_description": "Broadcast 11 short description",
+        "tags": ["111", "112"],
         "crew": [
             {
                 "label": "John Doe",
@@ -601,7 +587,6 @@
         },
         "isAdult": true,
         "hidden": true,
-        "deepLink": "https://www.google.com",
         "images": {
             "still": [
                 {
@@ -649,19 +634,6 @@
                 }
             ]
         },
-        "editions": [
-            {
-                "label": "Big Buck Bunny",
-                "editionType": "full",
-                "streams": [
-                    {
-                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-                        "type": "hls",
-                        "drm": "unencrypted"
-                    }
-                ]
-            }
-        ],
         "channels": {
             "id": "2jSmZIoBUrWKnxiSwgC6"
         }
@@ -673,7 +645,7 @@
         "assetLabel": "Short Label",
         "description": "Broadcast 2 description",
         "short_description": "Broadcast 2 short description",
-        "tags": ["tag3", "tag4"],
+        "tags": ["tagasdf3", "asdfasdf"],
         "crew": [
             {
                 "label": "John Doe 2",
@@ -704,7 +676,6 @@
         },
         "isAdult": true,
         "hidden": true,
-        "deepLink": "https://www.google.com",
         "images": {
             "still": [
                 {
@@ -752,31 +723,18 @@
                 }
             ]
         },
-        "editions": [
-            {
-                "label": "Big Buck Bunny",
-                "editionType": "full",
-                "streams": [
-                    {
-                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-                        "type": "hls",
-                        "drm": "unencrypted"
-                    }
-                ]
-            }
-        ],
         "channels": {
             "label": "Channel test"
         }
     },
     {
         "type": "broadcast",
-        "external_id": "broadcast-1",
-        "label": "Broadcast 1",
+        "external_id": "broadcast-13",
+        "label": "Broadcast 13",
         "assetLabel": "Short Label",
-        "description": "Broadcast 1 description",
-        "short_description": "Broadcast 1 short description",
-        "tags": ["tag1", "tag2"],
+        "description": "Broadcast 13 description",
+        "short_description": "Broadcast 13 short description",
+        "tags": ["zxvc", "cvbncvb"],
         "crew": [
             {
                 "label": "John Doe",
@@ -806,7 +764,6 @@
         },
         "isAdult": true,
         "hidden": true,
-        "deepLink": "https://www.google.com",
         "images": {
             "still": [
                 {
@@ -854,24 +811,11 @@
                 }
             ]
         },
-        "editions": [
-            {
-                "label": "Big Buck Bunny",
-                "editionType": "full",
-                "streams": [
-                    {
-                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-                        "type": "hls",
-                        "drm": "unencrypted"
-                    }
-                ]
-            }
-        ],
         "channels": {
             "label": "Channel 7",
             "assetLabel": "Short Label",
-            "number": "13",
-            "external_id": "channel7-external-id",
+            "number": "17",
+            "external_id": "channel17-external-id",
             "description": "A description of the channel",
             "short_description": "A short description of the channel",
             "hidden": true,
@@ -886,7 +830,7 @@
                 }
             ],
             "genres": ["Genres Channel", "Genres Channel 2"],
-            "tags": ["tag1", "tag2"],
+            "tags": ["uiol", "sdfg"],
             "geoblock": {
                 "allow": ["DE", "ES", "AU"],
                 "deny": []
@@ -913,7 +857,6 @@
                 ]
             },
             "isAdult": true,
-            "deepLink": "deep link example",
             "images": {
                 "logo": [
                     {
@@ -1001,12 +944,12 @@
     },
     {
         "type": "broadcast",
-        "external_id": "broadcast-2",
-        "label": "Broadcast 2",
+        "external_id": "broadcast-22",
+        "label": "Broadcast 22",
         "assetLabel": "Short Label",
-        "description": "Broadcast 2 description",
-        "short_description": "Broadcast 2 short description",
-        "tags": ["tag3", "tag4"],
+        "description": "Broadcast 22 description",
+        "short_description": "Broadcast 22 short description",
+        "tags": ["asdc", "bertbn"],
         "crew": [
             {
                 "label": "John Doe 2",
@@ -1037,7 +980,6 @@
         },
         "isAdult": true,
         "hidden": true,
-        "deepLink": "https://www.google.com",
         "images": {
             "still": [
                 {
@@ -1085,19 +1027,6 @@
                 }
             ]
         },
-        "editions": [
-            {
-                "label": "Big Buck Bunny",
-                "editionType": "full",
-                "streams": [
-                    {
-                        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-                        "type": "hls",
-                        "drm": "unencrypted"
-                    }
-                ]
-            }
-        ],
         "channels": {
             "external_id": "channel-external-id"
         }
