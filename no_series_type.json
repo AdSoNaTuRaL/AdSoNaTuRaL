@@ -2,7 +2,6 @@
     {
         "type": "episode",
         "assetLabel": "Short Label",
-        "series_type": "podcast",
         "external_id": "episode-external-id-2",
         "release_date": "2021-03-30",
         "year": 2021,
