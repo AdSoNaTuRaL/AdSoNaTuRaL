@@ -137,35 +137,8 @@
         "series": {
             "duration": 1800,
             "crew": [
-                {
-                    "label": "Chrishell Stause",
-                    "role": "actor"
-                },
-                {
-                    "label": "Mary Fitzgerald",
-                    "role": "actor"
-                },
-                {
-                    "label": "Heather Rae Young",
-                    "role": "actor"
-                },
-                {
-                    "label": "Brett Oppenheim",
-                    "role": "actor"
-                },
-                {
-                    "label": "Jason Oppenheim",
-                    "role": "actor"
-                },
-                {
-                    "label": "Amanza Smith",
-                    "role": "actor"
-                }
             ],
             "genres": [
-                "Reality",
-                "Lifestyle",
-                "Entertainment"
             ],
             "images": {
                 "still": [
