@@ -1,0 +1,222 @@
+[
+    {
+        "type": "broadcast",
+        "duration": 10800,
+        "label": "Breakfast",
+        "channel_label": "Channel 244",
+        "description": "The latest news, sport, business and weather from the BBC's Breakfast team.",
+        "year": 2023,
+        "release_date": "2023-01-01",
+        "crew": [],
+        "genres": [
+            "News",
+            "Politics"
+        ],
+        "images": {
+            "poster": [
+                {
+                    "url": "https://cdn.images.simply.tv/11249551934616379041",
+                    "size": {
+                        "width": 2000,
+                        "height": 3000
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://cdn.images.simply.tv/3138030870889072243",
+                    "size": {
+                        "width": 1920,
+                        "height": 1080
+                    }
+                }
+            ]
+        },
+        "externalRefs": {
+            "IMDB": {
+                "id": "tt0262152"
+            }
+        },
+        "startsAt": 1694817587,
+        "endsAt": 1694828387,
+        "external_id": "tt0262152"
+    },
+    {
+        "type": "episode",
+        "label": "Selling Sunset",        
+        "year": 2019,
+        "description": "The elite agents at The Oppenheim Group sell the luxe life to affluent buyers in LA. Relationships are everything, and that often means major drama.",
+        "release_date": "2019-01-01",
+        "duration": 1800,
+        "genres": [
+            "Reality",
+            "Lifestyle",
+            "Entertainment"
+        ],
+        "crew": [
+            {
+                "label": "Chrishell Stause",
+                "role": "actor"
+            },
+            {
+                "label": "Mary Fitzgerald",
+                "role": "actor"
+            },
+            {
+                "label": "Heather Rae Young",
+                "role": "actor"
+            },
+            {
+                "label": "Brett Oppenheim",
+                "role": "actor"
+            },
+            {
+                "label": "Jason Oppenheim",
+                "role": "actor"
+            },
+            {
+                "label": "Amanza Smith",
+                "role": "actor"
+            }
+        ],
+        "images": {
+            "still": [
+                {
+                    "url": "https://cdn.images.simply.tv/16458577337453841350",
+                    "size": {
+                        "width": 2048,
+                        "height": 1152
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://cdn.images.simply.tv/876440790889708442",
+                    "size": {
+                        "width": 2048,
+                        "height": 1152
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://cdn.images.simply.tv/11206482210597490366",
+                    "size": {
+                        "width": 1000,
+                        "height": 1500
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://cdn.images.simply.tv/5485875009503402970",
+                    "size": {
+                        "width": 1920,
+                        "height": 1080
+                    }
+                }
+            ]
+        },
+        "externalRefs": {
+            "IMDB": {
+                "id": "tt9817298"
+            }
+        },
+        "external_id": "tt9817298",
+        "windows": [
+            {
+                "blocked": false,
+                "blockedMessage": null,
+                "countries": [],
+                "applications": [],
+                "endsAt": 2147476800,
+                "startsAt": 1599476550,
+                "title": null
+            }
+        ],
+        "series": {
+            "duration": 1800,
+            "crew": [
+                {
+                    "label": "Chrishell Stause",
+                    "role": "actor"
+                },
+                {
+                    "label": "Mary Fitzgerald",
+                    "role": "actor"
+                },
+                {
+                    "label": "Heather Rae Young",
+                    "role": "actor"
+                },
+                {
+                    "label": "Brett Oppenheim",
+                    "role": "actor"
+                },
+                {
+                    "label": "Jason Oppenheim",
+                    "role": "actor"
+                },
+                {
+                    "label": "Amanza Smith",
+                    "role": "actor"
+                }
+            ],
+            "genres": [
+                "Reality",
+                "Lifestyle",
+                "Entertainment"
+            ],
+            "images": {
+                "still": [
+                    {
+                        "url": "https://cdn.images.simply.tv/16458577337453841350",
+                        "size": {
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "url": "https://cdn.images.simply.tv/876440790889708442",
+                        "size": {
+                            "width": 2048,
+                            "height": 1152
+                        }
+                    }
+                ],
+                "poster": [
+                    {
+                        "url": "https://cdn.images.simply.tv/11206482210597490366",
+                        "size": {
+                            "width": 1000,
+                            "height": 1500
+                        }
+                    }
+                ],
+                "highlight": [
+                    {
+                        "url": "https://cdn.images.simply.tv/5485875009503402970",
+                        "size": {
+                            "width": 1920,
+                            "height": 1080
+                        }
+                    }
+                ]
+            },
+            "externalRefs": {
+                "IMDB": {
+                    "id": "tt9817298"
+                }
+            },
+            "external_id": "tt9817298",
+            "description": "The elite agents at The Oppenheim Group sell the luxe life to affluent buyers in LA. Relationships are everything, and that often means major drama.",
+            "label": "Selling Sunset",
+            "year": 2019,
+            "release_date": "2019-01-01"
+        },
+        "episode_number": 1,
+        "season_number": 1
+    }
+]
