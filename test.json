@@ -1,0 +1,92 @@
+[
+    {
+        "duration": 1800,
+        "release_year": 2019,
+        "crew": [
+            {
+                "label": "Chrishell Stause",
+                "role": "actor"
+            },
+            {
+                "label": "Mary Fitzgerald",
+                "role": "actor"
+            },
+            {
+                "label": "Heather Rae Young",
+                "role": "actor"
+            },
+            {
+                "label": "Brett Oppenheim",
+                "role": "actor"
+            },
+            {
+                "label": "Jason Oppenheim",
+                "role": "actor"
+            },
+            {
+                "label": "Amanza Smith",
+                "role": "actor"
+            }
+        ],
+        "genres": ["Reality", "Lifestyle", "Entertainment"],
+        "id": "3731090",
+        "images": {
+            "still": [
+                {
+                    "url": "https://cdn.images.simply.tv/16458577337453841350",
+                    "size": {
+                        "width": 2048,
+                        "height": 1152
+                    }
+                }
+            ],
+            "background": [
+                {
+                    "url": "https://cdn.images.simply.tv/876440790889708442",
+                    "size": {
+                        "width": 2048,
+                        "height": 1152
+                    }
+                }
+            ],
+            "poster": [
+                {
+                    "url": "https://cdn.images.simply.tv/11206482210597490366",
+                    "size": {
+                        "width": 1000,
+                        "height": 1500
+                    }
+                }
+            ],
+            "highlight": [
+                {
+                    "url": "https://cdn.images.simply.tv/5485875009503402970",
+                    "size": {
+                        "width": 1920,
+                        "height": 1080
+                    }
+                }
+            ]
+        },
+        "externalRefs": {
+            "IMDB": {
+                "id": "tt9817298"
+            }
+        },
+        "type": "series",
+        "external_id": "tt9817298",
+        "windows": [
+            {
+                "blocked": false,
+                "blockedMessage": null,
+                "countries": [],
+                "applications": [],
+                "endsAt": 2147476800,
+                "startsAt": 0,
+                "title": null
+            }
+        ],
+        "description": "The elite agents at The Oppenheim Group sell the luxe life to affluent buyers in LA. Relationships are everything, and that often means major drama.",
+        "label": "Selling Sunset"
+    }
+]
