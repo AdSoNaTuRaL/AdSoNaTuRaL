@@ -40,7 +40,6 @@
         },
         "rating": 40,
         "isAdult": true,
-        "deepLink": "deep link example",
         "series": {
             "geoblock": {
                 "allow": [],
@@ -66,7 +65,6 @@
                     "title": null
                 }
             ],
-            "deepLink": "deep link series example",
             "age_classification": {
                 "types": [
                     {
