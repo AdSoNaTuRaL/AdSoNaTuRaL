@@ -48,7 +48,7 @@
             },
             "assetLabel": "Short Label",
             "external_id": "series-external-id",
-            "label": "Label series",
+            "label": "Label series ",
             "clipIds": ["id_of_clip", "id_of_clip_2"],
             "description": "A description of the series",
             "short_description": "A short description of the series",
