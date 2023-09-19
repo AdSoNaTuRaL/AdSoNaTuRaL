@@ -46,7 +46,7 @@
                 "deny": ["CD", "CO"]
             },
             "assetLabel": "Short Label 2",
-            "label": "Label series must update 2",
+            "label": "Label series must update 2323q223452345",
             "clipIds": ["id_of_clip", "id_of_clip_2"],
             "description": "A description of the series 2",
             "short_description": "A short description of the series 2",
