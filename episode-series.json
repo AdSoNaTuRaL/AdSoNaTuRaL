@@ -45,15 +45,15 @@
                 "allow": [],
                 "deny": ["CD", "CO"]
             },
-            "assetLabel": "Short Label",
-            "label": "Label series must update",
+            "assetLabel": "Short Label 2",
+            "label": "Label series must update 2",
             "clipIds": ["id_of_clip", "id_of_clip_2"],
-            "description": "A description of the series",
-            "short_description": "A short description of the series",
+            "description": "A description of the series 2",
+            "short_description": "A short description of the series 2",
             "release_date": "2021-03-30",
-            "year": 2023,
+            "year": 2027,
             "rating": 80,
-            "isAdult": true,
+            "isAdult": false,
             "windows": [
                 {
                     "blocked": true,
