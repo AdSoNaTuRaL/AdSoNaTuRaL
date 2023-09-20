@@ -10,55 +10,67 @@
         "channel_label": "KAN11",
         "series": {
             "type": "series",
-            "external_id": "1072",
-            "label": "חדשות הערב",
-            "description": "\u00A0המהדורה המרכזית של כאן 11 עם כל הדיווחים והפרשנויות - והסיפורים שכולם ידברו עליהם מחר. כל ערב ב-20:00",
-            "short_description": "חדשות הערב, כל ערב ב-20:00",
-            "channel_label": "KAN11",
-            "episode_number": 0,
-            "hidden": false,
+            "duration": null,
+            "release_date": null,
+            "rating": null,
+            "minimum_price": null,
+            "genres": [],
+            "crew": [],
+            "year": null,
+            "geoblock": null,
+            "external_id": "1778",
+            "checksum": null,
+            "sourceId": null,
+            "externalAuthDetails": null,
+            "label": "לבד בבית",
+            "deepLink": null,
+            "description": "דודי ונתי צור נוסעים לחופשה ספונטנית בת 3 ימים באי פאקוס, ומשאירים בבית את 4 ילדיהם הרועשים והמפונקים-מיקה(16), רוני(14), איה(14), ונבו(8).וירוס מסתורי שמתגלה בפאקוס מוביל לסגר מיידי על האי ומונע מנתי ודודי לחזור הביתה... עד שהם יחזרו - 4 האחים, שלא מסתדרים ביניהם גם כשההורים כן בבית, נאלצים להסתדר לגמרי לבדם...",
             "images": {
                 "still": [
                     {
-                        "url": "https://prod-main-kan-cdn.azureedge.net/media/npjj5jrk/1_cover-image_1920x1080.jpg?share=images/logo/11.png",
+                        "url": "https://kanwebtest-migration.azurewebsites.net/media/ro0fnpzo/2022-8-8-imgid-79363_x.jpeg?share=images/logo/11.png",
                         "size": {
-                            "width": 1920,
-                            "height": 1080
+                            "width": 1980,
+                            "height": 412
                         }
                     }
                 ],
                 "poster": [
                     {
-                        "url": "https://prod-main-kan-cdn.azureedge.net/media/puvloiuy/6_poster-image-big_1200x1800.jpg",
+                        "url": "https://kanwebtest-migration.azurewebsites.net/media/n33h15rw/https-kanstaticazureedgenet-download-pictures-2022-8-8-imgid-78916_k.jpeg",
                         "size": {
-                            "width": 1200,
-                            "height": 1800
+                            "width": 239,
+                            "height": 360
                         }
                     }
                 ],
                 "background": [
                     {
-                        "url": "https://prod-main-kan-cdn.azureedge.net/media/tlahzeri/2_clean-cover-image_1920x1080_no-logo.jpg",
+                        "url": "https://kanwebtest-migration.azurewebsites.net/media/fzdfawzb/https-kanwebblobcorewindowsnet-download-pictures-2022-10-24-imgid-83918_aa.jpeg",
                         "size": {
                             "width": 1920,
                             "height": 1080
                         }
                     }
                 ],
-                "backgroundPoster": [],
-                "heroPortrait": [],
-                "heroPoster": []
+                "heroPortrait": []
             },
-            "crew": [],
-            "genres": [],
-            "season_number": 1,
-            "editions": [
-                {
-                    "label": "חדשות הערב",
-                    "editionType": "full",
-                    "streams": []
-                }
-            ]
+            "translations": null,
+            "short_description": "כשההורים שלך נוסעים לחופשה של כמה ימים בחו\"ל ו...נתקעים שם",
+            "age_classification": null,
+            "subscriptionTags": null,
+            "windows": null,
+            "isHidden": null,
+            "tags": null,
+            "assetLabel": null,
+            "updatedByUserAt": null,
+            "averageUserRating": null,
+            "userRatingCount": null,
+            "isAdult": false,
+            "workflowTags": [],
+            "externalRefs": [],
+            "productIds": null,
+            "clipIds": null
         },
         "episode_number": 9812,
         "hidden": false,
