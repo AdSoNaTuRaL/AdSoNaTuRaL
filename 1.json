@@ -1,0 +1,107 @@
+[
+    {
+        "type": "episode",
+        "external_id": "UMB-537038",
+        "label": "19.09.23",
+        "description": "מהדורת החדשות המרכזית של כאן 11 עם נבחרת הכתבים והפרשנים של כאן חדשות. הפרסומים הראשונים, הכותרות החמות וכל הפרשנויות לצד כתבות מגזין ופינות קבועות.",
+        "short_description": "מהדורת החדשות המרכזית של כאן 11 עם נבחרת הכתבים והפרשנים",
+        "endsAt": 1695119118,
+        "startsAt": 1695114000,
+        "channel_label": "KAN11",
+        "series": {
+            "type": "series",
+            "external_id": "1072",
+            "label": "חדשות הערב",
+            "description": "\u00A0המהדורה המרכזית של כאן 11 עם כל הדיווחים והפרשנויות - והסיפורים שכולם ידברו עליהם מחר. כל ערב ב-20:00",
+            "short_description": "חדשות הערב, כל ערב ב-20:00",
+            "channel_label": "KAN11",
+            "episode_number": 0,
+            "hidden": false,
+            "images": {
+                "still": [
+                    {
+                        "url": "https://prod-main-kan-cdn.azureedge.net/media/npjj5jrk/1_cover-image_1920x1080.jpg?share=images/logo/11.png",
+                        "size": {
+                            "width": 1920,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "poster": [
+                    {
+                        "url": "https://prod-main-kan-cdn.azureedge.net/media/puvloiuy/6_poster-image-big_1200x1800.jpg",
+                        "size": {
+                            "width": 1200,
+                            "height": 1800
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "url": "https://prod-main-kan-cdn.azureedge.net/media/tlahzeri/2_clean-cover-image_1920x1080_no-logo.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "backgroundPoster": [],
+                "heroPortrait": [],
+                "heroPoster": []
+            },
+            "crew": [],
+            "genres": [],
+            "season_number": 1,
+            "editions": [
+                {
+                    "label": "חדשות הערב",
+                    "editionType": "full",
+                    "streams": []
+                }
+            ]
+        },
+        "episode_number": 9812,
+        "hidden": false,
+        "images": {
+            "still": [
+                {
+                    "url": "https://prod-main-kan-cdn.azureedge.net/media/nzsacyys/חדשות-הערב-19092023.png",
+                    "size": {
+                        "width": 1920,
+                        "height": 1080
+                    }
+                }
+            ],
+            "poster": [],
+            "background": [
+                {
+                    "url": "https://prod-main-kan-cdn.azureedge.net/media/nzsacyys/חדשות-הערב-19092023.png",
+                    "size": {
+                        "width": 1920,
+                        "height": 1080
+                    }
+                }
+            ],
+            "backgroundPoster": [],
+            "heroPortrait": [],
+            "heroPoster": []
+        },
+        "crew": [],
+        "genres": [],
+        "duration": 5118,
+        "season_number": 1,
+        "editions": [
+            {
+                "label": "חדשות הערב | 19.09.23",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_d76p8s5m/format/applehttp/protocol/https/desiredFileName.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ]
+    }
+]
