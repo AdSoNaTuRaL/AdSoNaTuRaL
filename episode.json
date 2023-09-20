@@ -1,0 +1,107 @@
+[
+    {
+        "type": "episode",
+        "external_id": "UMB-536852",
+        "label": "סימה קדמון",
+        "description": "העיתונאית סימה קדמון, מיוצרות הסדרה \"האחת\", מספרת לרוני קובן על אחורי הקלעים של הדרמות הפוליטיות הגדולות, השבר שחוותה עם חבריה מטייסת 201 במלחמת יום כיפור, ועל האור והצל בחיים עם אבא מפורסם מאוד",
+        "short_description": "סימה קדמון על מאחורי הקלעים של \"האחת\" ועל השבר בטייסת",
+        "endsAt": 1695072575,
+        "startsAt": 1695070800,
+        "channel_label": "KAN11",
+        "series": {
+            "type": "series",
+            "external_id": "1189",
+            "label": "פגישה עם רוני קובן",
+            "description": "תוכנית ראיונות אישית בהגשת העיתונאי רוני קובן, זוכת פרס הטלוויזיה לתוכנית הראיונות הטובה ביותר\u00A0",
+            "short_description": "תכנית ראיונות אישית, זוכת פרס האקדמיה, בהגשת העיתונאי רוני קובן",
+            "channel_label": "KAN11",
+            "episode_number": 0,
+            "hidden": false,
+            "images": {
+                "still": [
+                    {
+                        "url": "https://prod-main-kan-cdn.azureedge.net/media/cdbpy2ro/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1920x1080-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-56edbe13-6dd2-4ca2-ae53-f6e6d9e8af2d.jpg?share=images/logo/11.png",
+                        "size": {
+                            "width": 1920,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "poster": [
+                    {
+                        "url": "https://prod-main-kan-cdn.azureedge.net/media/pedn5d0w/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1200x1800-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-7b287a0f-9cde-4b96-b82d-7f349de0f6da.jpg",
+                        "size": {
+                            "width": 1200,
+                            "height": 1800
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "url": "https://prod-main-kan-cdn.azureedge.net/media/vo0frwuj/https-cdnbackstage-apicom-key-backstage-cms-production-uploads-1920x1080-1653bcb0-f2c7-11ec-87e7-b1d975722ca7-assets-images-1f7b4c65-78f0-49af-8a8d-dd968a7a584f.jpg",
+                        "size": {
+                            "width": 1920,
+                            "height": 1080
+                        }
+                    }
+                ],
+                "backgroundPoster": [],
+                "heroPortrait": [],
+                "heroPoster": []
+            },
+            "crew": [],
+            "genres": [],
+            "season_number": 1,
+            "editions": [
+                {
+                    "label": "פגישה עם רוני קובן",
+                    "editionType": "full",
+                    "streams": []
+                }
+            ]
+        },
+        "episode_number": 21,
+        "hidden": false,
+        "images": {
+            "still": [
+                {
+                    "url": "https://prod-main-kan-cdn.azureedge.net/media/nhmkd25m/פגישה-עם-רוני-קובן_עונה-07.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 1080
+                    }
+                }
+            ],
+            "poster": [],
+            "background": [
+                {
+                    "url": "https://prod-main-kan-cdn.azureedge.net/media/nhmkd25m/פגישה-עם-רוני-קובן_עונה-07.jpg",
+                    "size": {
+                        "width": 1920,
+                        "height": 1080
+                    }
+                }
+            ],
+            "backgroundPoster": [],
+            "heroPortrait": [],
+            "heroPoster": []
+        },
+        "crew": [],
+        "genres": [],
+        "duration": 1775,
+        "season_number": 7,
+        "editions": [
+            {
+                "label": "פגישה עם רוני קובן | סימה קדמון",
+                "editionType": "full",
+                "streams": [
+                    {
+                        "url": "https://cdnapisec.kaltura.com/p/2717431/sp/271743100/playManifest/entryId/1_jqcbmyxc/format/applehttp/protocol/https/desiredFileName.m3u8",
+                        "type": "hls",
+                        "drm": "unencrypted"
+                    }
+                ]
+            }
+        ]
+    }
+]
